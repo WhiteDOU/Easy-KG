@@ -1,0 +1,69 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/00d4bad33d73eb2481f7f1434cb41dc9",
+ "主题": [
+  "张广艳"
+ ],
+ "id": "CN-B175J3KJ",
+ "工作单位": "清华大学计算机科学与技术系",
+ "被引次数": [
+  "558"
+ ],
+ "成果数": [
+  "46"
+ ],
+ "H指数": [
+  "11"
+ ],
+ "G指数": [
+  "23"
+ ],
+ "领域": [
+  "软件工程"
+ ],
+ "合作者": [
+  "郑纬民",
+  "舒继武",
+  "薛巍",
+  "王树鹏"
+ ],
+ "合作单位": [
+  "清华大学计算机科学与技术系",
+  "清华大学计算机科学与技术系",
+  "清华大学计算机科学与技术系",
+  "中国科学院计算技术研究所"
+ ],
+ "合作机构": [
+  "清华大学计算机科学与技术系",
+  "中国科学院计算技术研究所",
+  "中国人民解放军第251医院",
+  "哈尔滨工业大学计算机网络与信息安全技术研究中心",
+  "国家计算机网络应急技术处理协调中心",
+  "桂林电子科技大学信息科技学院",
+  "河北科技大学机械电子工程学院",
+  "江苏大学计算机科学与通信工程学院",
+  "哈尔滨医科大学附属肿瘤医院",
+  "中国科学院长春应用化学研究所"
+ ],
+ "论文": [
+  "DATA STORAGE SYSTEM AND DATA STORAGE METHOD",
+  "纠删码存储系统中数据修复方法综述",
+  "Accelerating breadth-first graph search on a single server by dynamic edge trimming",
+  "Supporting Real-Time Analytic Queries in Big and Fast Data Environments",
+  "高等计算机系统结构课程研究型教学探讨",
+  "Reconsidering Single Disk Failure Recovery for Erasure Coded Storage Systems: Optimizing Load Balancing in Stack-Level",
+  "Xscale: Online X-Code RAID-6 Scaling Using Lightweight Data Reorganization",
+  "Performance Analysis of GPU-Based Convolutional Neural Networks",
+  "CaCo: An Efficient Cauchy Coding Approach for Cloud Storage Systems",
+  "AsyncStripe: I/O efficient asynchronous graph computing on a single server",
+  "Building a Fault Tolerant Framework with Deadline Guarantee in Big Data Stream Computing Environments",
+  "FastBFS: Fast Breadth-First Graph Search on a Single Server.",
+  "Rethinking Computer Architectures and Software Systems for Phase-Change Memory",
+  "Rethinking Computer Architectures and Software Systems for Phase-Change Memory",
+  "从系统角度审视大图计算",
+  "一种Linux环境下优化ZFS同步写性能的方法",
+  "Re-Stream",
+  "FastRAQ: A Fast Approach to Range-Aggregate Queries in Big Data Environments",
+  "Accelerate RDP RAID-6 Scaling by Reducing Disk I/Os and XOR Operations",
+  "Re-Stream: Real-time and energy-efficient resource scheduling in big data stream computing environments"
+ ]
+}

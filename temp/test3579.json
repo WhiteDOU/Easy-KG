@@ -1,0 +1,68 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/ab0b42ca65d39895379d1b8e41ff9e31",
+ "主题": [
+  "张德良"
+ ],
+ "id": "CN-BI73U4TJ",
+ "工作单位": "中国科学院力学研究所",
+ "被引次数": [
+  "1103"
+ ],
+ "成果数": [
+  "132"
+ ],
+ "H指数": [
+  "17"
+ ],
+ "G指数": [
+  "27"
+ ],
+ "领域": [
+  "固体力学/流体力学"
+ ],
+ "合作者": [
+  "姜宗林",
+  "刘凯欣",
+  "胡宗民",
+  "王刚"
+ ],
+ "合作单位": [
+  "中国科学院力学研究所高温气体动力学重点实验室",
+  "北京大学工学院",
+  "中国科学院力学研究所高温气体动力学重点实验室",
+  "北京大学工学院"
+ ],
+ "合作机构": [
+  "中国科学院力学研究所",
+  "中国科学院力学研究所高温气体动力学重点实验室",
+  "北京大学工学院",
+  "中国科学院光电技术研究所",
+  "中国科学技术大学力学和机械工程系",
+  "第三军医大学野战外科研究所",
+  "中国科学院计算中心",
+  "湖北医药学院附属太和医院",
+  "总参工程兵科研三所",
+  "中国航天科技集团公司"
+ ],
+ "论文": [
+  "Three-dimensional detonation cellular structures in rectangular ducts using an improved CESE scheme",
+  "Industrial Oxygen and Its Advanced Application Technology for Hydrometallurgy Process",
+  "一种基于AUSM思想的通量分裂方法",
+  "Robust high-order space-time conservative schemes for solving conservation laws on hybrid meshes",
+  "Numerical Simulation of Liquid-Fueled Detonations by an Eulerian–Lagrangian Model",
+  "Investigation into Mechanisms Underlying Head-on Collision of Detonations with Shock Waves",
+  "爆轰波与激波对撞爆轰状态演化机理研究",
+  "用Euler_Lagrange模型模拟气液两相爆轰",
+  "用Euler_Lagrange模型模拟气液两相爆轰",
+  "A local space–time conservation scheme and its application in shock wave propagation",
+  "Three-Dimensional Simulation of Detonation Propagation in a Rectangular Duct by an Improved CE/SE Scheme",
+  "An improved CE/SE scheme and its application to dilute gas–particle flows",
+  "气液两相爆轰与气相爆轰绕射的对比与分析",
+  "变模态胞格爆轰中的非定常横波现象 1)",
+  "Numerical Study on Critical Wedge Angle of Cellular Detonation Reflections",
+  "三种结构形式坑道中空气冲击波传播规律研究",
+  "Numerical Study of Mach Reflection and Detonation by Using a Second-Order CE/SE Method",
+  "基于正位网格的局部时空守恒格式",
+  "改进三维CE/SE算法在气相爆轰中的应用"
+ ]
+}

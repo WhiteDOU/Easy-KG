@@ -1,0 +1,63 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/b15ed256dda33919a1b4b78b6d6fc2c5",
+ "主题": [
+  "谢玮霖"
+ ],
+ "id": "CN-B474JQXJ",
+ "工作单位": "上海交通大学区域光纤通信网与新型光通信系统国家重点实验室",
+ "被引次数": [
+  "91"
+ ],
+ "成果数": [
+  "44"
+ ],
+ "H指数": [
+  "4"
+ ],
+ "G指数": [
+  "9"
+ ],
+ "领域": [
+  "光学"
+ ],
+ "合作者": [
+  "董毅",
+  "胡卫生",
+  "义理林",
+  "何浩"
+ ],
+ "合作单位": [
+  "清华大学电子工程系",
+  "上海交通大学区域光纤通信网与新型光通信系统国家重...",
+  "上海交通大学",
+  "上海交通大学区域光纤通信网与新型光通信系统国家重..."
+ ],
+ "合作机构": [
+  "清华大学电子工程系",
+  "上海交通大学区域光纤通信网与新型光通信系统国家重点实验室",
+  "上海交通大学",
+  "山东中医药大学药学院",
+  "中国医学科学院北京协和医院"
+ ],
+ "论文": [
+  "Distribution of a phase-stabilized 100.02 GHz millimeter-wave signal over a 160 km optical fiber with 4.1 × 10−17 instability",
+  "A highly precise fiber delay fluctuation measurement with a wide range",
+  "Investigation of homodyne demodulation of RZ-BPSK signal based on an optical Costas loop",
+  "Efficient dynamic coherence transfer relying on offset locking using optical phase-locked loop",
+  "Coherent Single-Mode Extraction of Agile Frequency Comb via Phase-Locking for Broadband Phase-Continuous Tuning",
+  "基于遗传算法与Zoom FFT的光频域反射仪快速高精度频谱分析",
+  "Highly linear analog photonic link based on composite optical phase-locked loop",
+  "10-Gb/s homodyne receiver based on costas loop with enhanced dynamic performance",
+  "Fourier transform-limited optical frequency-modulated continuous-wave interferometry over several tens of laser coherence lengths.",
+  "Distribution of millimeter waves over a fiber link with high frequency stability (Invited Paper)",
+  "基于预畸变和光锁相的线性扫频激光源生成",
+  "Photonic generation of phase-stable and wideband chirped microwave signals based on phase-locked dual optical frequency combs.",
+  "Fast Spectrum Analysis for an OFDR Using the FFT and SCZT Combination Approach",
+  "Precise linearization of broadband frequency chirp for coherent optical frequency domain reflectometry",
+  "Coherence enhancement of a chirped DFB laser for frequency-modulated continuous-wave reflectometry using a composite feedback loop",
+  "The laser phase measurement by phase-smooth unwrapping algorithm and its application in phase error compensation of OFMCW",
+  "Dynamic frequency-noise spectrum measurement for a frequency-swept DFB laser with short-delayed self-heterodyne method",
+  "Power-area method to precisely estimate laser linewidth from its frequency-noise spectrum",
+  "Photonic generation of low phase noise arbitrary chirped microwave waveforms with large time-bandwidth product"
+ ]
+}

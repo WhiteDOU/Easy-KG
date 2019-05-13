@@ -1,0 +1,67 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/37dc4dbecc3d6ac18c133530875a9331",
+ "主题": [
+  "谢正祥"
+ ],
+ "id": "CN-BK73USTJ",
+ "工作单位": "重庆医科大学生物医学工程研究室",
+ "被引次数": [
+  "960"
+ ],
+ "成果数": [
+  "176"
+ ],
+ "H指数": [
+  "17"
+ ],
+ "G指数": [
+  "23"
+ ],
+ "领域": [
+  "生物科学与工程"
+ ],
+ "合作者": [
+  "李章勇",
+  "王志芳",
+  "牛永红",
+  "刘玉红"
+ ],
+ "合作单位": [
+  "重庆邮电大学生物信息学院",
+  "重庆医科大学生物医学工程研究室",
+  "清华大学第一附属医院",
+  "重庆医科大学生物医学工程研究室"
+ ],
+ "合作机构": [
+  "重庆医科大学生物医学工程研究室",
+  "重庆医科大学附属第一医院",
+  "重庆邮电大学生物信息学院",
+  "清华大学第一附属医院",
+  "重庆医科大学附属第二医院",
+  "川北医学院附属医院",
+  "重庆邮电大学自动化学院",
+  "电子科技大学",
+  "重庆医科大学生理教研室",
+  "重庆医科大学数学教研室"
+ ],
+ "论文": [
+  "Three fidelity criteria in image enhancement",
+  "自适应双向保带宽对数变换及低照度图像增强",
+  "基于视觉感知的视网膜图像增强方法",
+  "Optimization for fundus molecular imaging",
+  "恶劣环境下图像的缺陷补偿",
+  "Optimization algorithm of dynamic color image under low illumination",
+  "Definitions and measurements of physical parameters of objective world apperceived by Human vision",
+  "一种改进的基于暗通道先验知识的去雾算法",
+  "低照度下具有动态特性的彩色图像质量优化算法",
+  "标准化变换在视频隐形图像重现中的应用",
+  "基于OpenCV的暗视觉图像处理的研究",
+  "视觉感知的彩色图像质量积极评价",
+  "Active assessment of color image quality based on visual perception",
+  "彩色图像二值化算法及应用",
+  "快速自适应最佳化算法在望远视频图像中的应用",
+  "Application of Normalized Transformation in Invisible Video Image Reproduction",
+  "彩色图像质量自适应最佳化方法",
+  "嵌入式视频监控系统的设计与实现"
+ ]
+}

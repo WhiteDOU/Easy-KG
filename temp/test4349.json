@@ -1,0 +1,69 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/01f5a1c9cf1c427633fb0e7316cffdfc",
+ "主题": [
+  "杜云艳"
+ ],
+ "id": "CN-B874ONBJ",
+ "工作单位": "中国科学院地理科学与资源研究所资源与环境信息系",
+ "被引次数": [
+  "2186"
+ ],
+ "成果数": [
+  "186"
+ ],
+ "H指数": [
+  "26"
+ ],
+ "G指数": [
+  "39"
+ ],
+ "领域": [
+  "地图制图学与地理信息工程"
+ ],
+ "合作者": [
+  "苏奋振",
+  "周成虎",
+  "杨晓梅",
+  "邵全琴"
+ ],
+ "合作单位": [
+  "中国科学院地理科学与资源研究所资源与环境信息系",
+  "中国科学院地理科学与资源研究所资源与环境信息系",
+  "中国科学院地理科学与资源研究所资源与环境信息系",
+  "中国科学院地理科学与资源研究所"
+ ],
+ "合作机构": [
+  "中国科学院地理科学与资源研究所资源与环境信息系",
+  "中国科学院地理科学与资源研究所",
+  "山东科技大学地球信息科学与工程学院",
+  "华中科技大学计算机科学与技术学院",
+  "山西大学计算机与信息技术学院",
+  "武汉大学遥感信息工程学院",
+  "中国科学院大连化学物理研究所催化基础国家重点实验室",
+  "国家海洋局",
+  "中国科学院计算技术研究所",
+  "中国矿业大学环境与测绘学院"
+ ],
+ "论文": [
+  "Mapping hourly dynamics of urban population using trajectories reconstructed from mobile phone records",
+  "Examining associations of environmental characteristics with recreational cycling behaviour by street-level Strava data",
+  "An auto-tracking algorithm for mesoscale eddies using global nearest neighbor filter",
+  "京津冀地区人口规模调控政策参数化路径与系统模拟",
+  "Tracking the evolution processes and behaviors of mesoscale eddies in the South China Sea:a global nearest neighbor filter approach",
+  "Application of a sea surface temperature front composite algorithm in the Bohai, Yellow, and East China Seas",
+  "海洋涡旋移动特征的区域划分方法及应用分析",
+  "基于云计算的海洋环境数据共享平台设计与实现",
+  "Major migration corridors of mesoscale ocean eddies in the South China Sea from 1992 to 2012",
+  "Regionalization Based on the Propagation of Ocean Eddies: Methods and Applications",
+  "A GIS-based method for depicting the characteristics of mesoscale eddi...",
+  "Application of trajectory clustering and regionalization to ocean eddies in the South China Sea.",
+  "A k-d tree-based algorithm to parallelize Kriging interpolation of big spatial data",
+  "基于密度的线数据分组算法研究",
+  "An Intelligent Approach to Integrating Spatial Information Processing Services",
+  "基于浮标轨迹的涡旋信息提取算法",
+  "Automatic Identification of Oceanic Multieddy Structures From Satellite Altimeter Datasets",
+  "A Line Grouping Algorithm Based on Density",
+  "基于密度的轨迹时空聚类分析",
+  "利用ANNS的空间信息处理服务智能集成算法"
+ ]
+}

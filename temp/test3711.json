@@ -1,0 +1,68 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/60617750a7b712927b9f43231b38066b",
+ "主题": [
+  "刘学军"
+ ],
+ "id": "CN-B0748ZFJ",
+ "工作单位": "南京师范大学虚拟地理环境教育部重点实验室",
+ "被引次数": [
+  "3236"
+ ],
+ "成果数": [
+  "209"
+ ],
+ "H指数": [
+  "28"
+ ],
+ "G指数": [
+  "52"
+ ],
+ "领域": [
+  "地图制图学与地理信息工程/大地测量学与测量工程"
+ ],
+ "合作者": [
+  "汤国安",
+  "王美珍",
+  "晋蓓",
+  "甄艳"
+ ],
+ "合作单位": [
+  "西北大学城市与资源学系",
+  "南京师范大学虚拟地理环境教育部重点实验室",
+  "南京师范大学虚拟地理环境教育部重点实验室",
+  "南京师范大学地理科学学院"
+ ],
+ "合作机构": [
+  "南京师范大学虚拟地理环境教育部重点实验室",
+  "西北大学城市与资源学系",
+  "南京师范大学地理科学学院",
+  "南京师范大学地理信息科学江苏省重点实验室",
+  "河南大学环境与规划学院",
+  "南京师范大学物理科学与技术学院",
+  "东华理工大学",
+  "长沙理工大学公路工程学院",
+  "南京市文苑路1号",
+  "南京师范大学数学与计算机科学学院"
+ ],
+ "论文": [
+  "Deployment optimization for camera network coupling with geographic environment",
+  "A NOVEL ANT COLONY OPTIMIZATION ALGORITHM FOR THE SHORTEST-PATH PROBLEM IN TRAFFIC NETWORKS",
+  "入室盗窃多尺度地理因子分析",
+  "Surveillance Video Synopsis Considering Trajectory Geographic Direction",
+  "视频GIS数据采集与处理",
+  "双目视觉三维点云重建的误差度量模型",
+  "DEM适宜分辨率及尺度变换方法的研究",
+  "一种多尺度CNN的图像语义分割算法",
+  "Integration of GIS and Moving Objects in Surveillance Video",
+  "顾及轨迹地理方向的监控视频浓缩方法",
+  "基于格网DEM的等高线提取误差传播模型",
+  "Analysis of Burglary Hot Spots and Near-Repeat Victimization in a Large Chinese City",
+  "Camera Coverage Estimation Based on Multistage Grid Subdivision",
+  "Surveillance Video Synopsis in GIS",
+  "Camera self-calibration with lens distortion",
+  "三维GIS在城市住宅小区物业管理中的应用研究",
+  "一种基于道路监控视频图像质量评估的新方法",
+  "复杂多边形快速融合算法与实现",
+  "Parallel viewshed analysis on a PC cluster system using triple-based irregular partition scheme"
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/caf30b3328b44ee7f96fceaeecbf5ae1",
+ "主题": [
+  "凌峰"
+ ],
+ "id": "CN-B974L9LJ",
+ "工作单位": "中国科学院测量与地球物理研究所",
+ "被引次数": [
+  "1251"
+ ],
+ "成果数": [
+  "90"
+ ],
+ "H指数": [
+  "22"
+ ],
+ "G指数": [
+  "32"
+ ],
+ "领域": [
+  "摄影测量与遥感/自然地理"
+ ],
+ "合作者": [
+  "杜耘",
+  "李晓冬",
+  "肖飞",
+  "吴胜军"
+ ],
+ "合作单位": [
+  "中国科学院测量与地球物理研究所",
+  "中国科学院测量与地球物理研究所",
+  "中国科学院测量与地球物理研究所",
+  "中国科学院重庆绿色智能技术研究院"
+ ],
+ "合作机构": [
+  "中国科学院测量与地球物理研究所",
+  "华中科技大学水电与数字化工程学院",
+  "武汉大学测绘遥感信息工程国家重点实验室",
+  "中国科学院地理科学与资源研究所资源与环境信息系",
+  "中国科学院研究生院",
+  "武汉大学水资源与水电工程科学国家重点实验室",
+  "中国科学院大学",
+  "甘肃省第二人民医院",
+  "首都医科大学宣武医院",
+  "中国科学院合肥智能机械研究所"
+ ],
+ "论文": [
+  "Generating a series of fine spatial and temporal resolution land cover maps by fusing coarse spatial resolution remotely sensed images and fine spatial resolution land cover maps",
+  "Monitoring Thermal Pollution in Rivers Downstream of Dams with Landsat ETM+ Thermal Infrared Images",
+  "Impervious Surface Change Mapping with an Uncertainty-Based Spatial-Temporal Consistency Model: A Case Study in Wuhan City Using Landsat Time-Series Datasets from 1987 to 2016",
+  "Updating Landsat-based forest cover maps with MODIS images using multiscale spectral-spatial-temporal superresolution mapping",
+  "Spectral–Spatial Adaptive Area-to-Point Regression Kriging for MODIS Image Downscaling",
+  "Super-Resolution Land Cover Mapping Using Multiscale Self-Similarity Redundancy",
+  "A Superresolution Land-Cover Change Detection Method Using Remotely Sensed Images With Different Spatial Resolutions",
+  "Learning-Based Spatial–Temporal Superresolution Mapping of Forest Cover With MODIS Images",
+  "Learning-Based Superresolution Land Cover Mapping",
+  "An Iterative Interpolation Deconvolution Algorithm for Superresolution Land Cover Mapping",
+  "Water Bodies’ Mapping from Sentinel-2 Imagery with Modified Normalized Difference Water Index at 10-m Spatial Resolution Produced by Sharpening the SWIR Band",
+  "基于MODIS数据的水体超分辨率制图——以丹江口水库为例",
+  "Assessing a Temporal Change Strategy for Sub-Pixel Land Cover Change Mapping from Multi-Scale Remote Sensing Imagery",
+  "Land cover blending: A new framework to generate high spatial and temporal resolution land cover maps from remotely sensed images",
+  "Improving super-resolution mapping through combining multiple super-resolution land-cover maps",
+  "Locally adaptive linear mixture model-based super-resolution land-cover mapping based on a structure tensor",
+  "2016-RSL-Locally adaptive super resolution waterline mapping with MODIS imagery",
+  "Estimating the relationship between dam water level and surface water area for the Danjiangkou Reservoir using Landsat remote sensing images",
+  "Locally adaptive super-resolution waterline mapping with MODIS imagery",
+  "Burned-Area Mapping at the Subpixel Scale With MODIS Images"
+ ]
+}

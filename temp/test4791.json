@@ -1,0 +1,67 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/36158c7e1f0dafa95c9b8d3545743a0d",
+ "主题": [
+  "李韬"
+ ],
+ "id": "CN-BA74O6GJ",
+ "工作单位": "国防科学技术大学计算机学院",
+ "被引次数": [
+  "135"
+ ],
+ "成果数": [
+  "62"
+ ],
+ "H指数": [
+  "6"
+ ],
+ "G指数": [
+  "10"
+ ],
+ "领域": [
+  "计算机网络"
+ ],
+ "合作者": [
+  "孙志刚",
+  "吕高锋",
+  "毛健彪",
+  "黄金锋"
+ ],
+ "合作单位": [
+  "国防科学技术大学计算机学院",
+  "国防科学技术大学计算机学院",
+  "国防科学技术大学计算机学院",
+  "国防科技大学计算机学院"
+ ],
+ "合作机构": [
+  "国防科学技术大学计算机学院",
+  "国防科技大学计算机学院",
+  "四川大学华西医院",
+  "四川大学计算机学院",
+  "国防科技大学航天与材料工程学院",
+  "怀化学院计算机系",
+  "中国医科大学附属盛京医院",
+  "烟台大学计算机系",
+  "中国医学科学院北京协和医院",
+  "杭州职业技术学院友嘉机电学院"
+ ],
+ "论文": [
+  "New manoeuvre detection method based on historical orbital data for low Earth orbit satellites",
+  "Historical-orbital-data-based method for monitoring the operational status of satellites in low Earth orbit",
+  "Demonstration of Path-Based Packet Batcher for Accelerating Vectorized Packet Processing",
+  "FAS: Using FPGA to Accelerate and Secure SDN Software Switches",
+  "基于“互联网+\"的应用技术大学计算机实验室联合模式探索",
+  "Shared Control of Teleoperation Rendezvous and Docking in Lunar Orbit",
+  "云计算在舰船设备远程故障诊断中的应用",
+  "PiBuffer：面向数据中心的 OpenFlow 流缓存管理模型",
+  "Design and implementation of Software Defined Hardware Counters for SDN",
+  "Self-described buffer: A novel mechanism to improve packet I/O efficiency in Linux.",
+  "MCPP: A High-efficiency Routing Table Lookup Based on NPDK",
+  "关于计算机网络管理技术的分析思考",
+  "计算机软件开发和保护技术研究",
+  "Shellshock漏洞分析测试研究",
+  "REFINE：一种可重构的SDN转发平面实现模型",
+  "分层技术应用于计算机软件开发中的研究",
+  "Demostration of Self-Described Buffer for Accelerating Packet Forwarding on Multi-core Servers.",
+  "Towards high-performance packet processing on commodity multi-cores: current issues and future directions"
+ ]
+}

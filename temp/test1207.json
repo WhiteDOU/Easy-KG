@@ -1,0 +1,68 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/43b2de6f7a4e8818d52a8ea2e63a6302",
+ "主题": [
+  "沈占锋"
+ ],
+ "id": "CN-B873U4BJ",
+ "工作单位": "中国科学院遥感应用研究所/中国科学院遥感与数字地球研究所/中国科学院空天信息研究院",
+ "被引次数": [
+  "2325"
+ ],
+ "成果数": [
+  "206"
+ ],
+ "H指数": [
+  "23"
+ ],
+ "G指数": [
+  "40"
+ ],
+ "领域": [
+  "摄影测量与遥感"
+ ],
+ "合作者": [
+  "骆剑承",
+  "胡晓东",
+  "明冬萍",
+  "陈秋晓"
+ ],
+ "合作单位": [
+  "中国科学院地理科学与资源研究所资源与环境信息系",
+  "中国科学院遥感应用研究所",
+  "中国地质大学（北京）信息工程学院|中国科学院地理...",
+  "中国科学院地理科学与资源研究所资源与环境信息系"
+ ],
+ "合作机构": [
+  "中国科学院地理科学与资源研究所资源与环境信息系",
+  "中国科学院遥感应用研究所",
+  "中国科学院新疆生态与地理研究所",
+  "中国科学院遥感与数字地球研究所",
+  "四川大学电子信息学院图像信息研究所",
+  "中国科学院地理科学与资源研究所",
+  "中国地质大学地球科学与资源学院",
+  "信息工程大学测绘学院",
+  "浙江科技学院信息与电子工程学院",
+  "浙江工业大学软件学院"
+ ],
+ "论文": [
+  "An Affine Invariant-based Match Propagation Method for Quasi-dense Image Registration",
+  "集成夜间灯光数据与LandsatTM影像的不透水面自动提取方法研究",
+  "Automatic Extraction Method for Impervious Surface Area by Integrating Nighttime light Data and Landsat TM Images",
+  "Impervious surface extraction using coupled spectral-spatial features",
+  "Multi-Scale Blobs for Saliency Detection in Satellite Images",
+  "基于高分辨率遥感目标特征库的地震灾情快速评估方法",
+  "高分辨率影像城市植被自动提取算法",
+  "Automatic Urban Vegetation Extraction Method Using High Resolution Imagery",
+  "基于知识的空间特征逐步寻优挖掘模型及其在遥感影像分类中的应用",
+  "The Rapid Assessment Method of Earthquake Disaster Based on High-Resolution Remote Sensing Target Feature Library",
+  "基于mRMR特征优选算法的多光谱遥感影像分类效率精度分析",
+  "Water Information Extraction of Baiyangdian Wet Land Based on the Collaborative Computing Method",
+  "Application of Land Cover Classification Techniques in Poverty-stricken Areas Using High Resolution Remote Sensing: A Case Study of Qianjiang District of Chongqing City",
+  "高分辨率遥感土地覆盖分类技术的应用研究——以重庆市黔江贫困区为例",
+  "High Spatial Resolution Remote Sensing Data Computing Pattern Based on Feature Primitives",
+  "Prior Knowledge-Based Automatic Object-Oriented Hierarchical Classification for Updating Detailed Land Cover Maps",
+  "Oil Tanks Extraction from High Resolution Imagery Using a Directional and Weighted Hough Voting Method",
+  "A Fast Algorithm to Estimate the Deepest Points of Lakes for Regional Lake Registration",
+  "基于神经网络的SPOT数据模拟真彩色非线性方法研究"
+ ]
+}

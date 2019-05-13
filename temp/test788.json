@@ -1,0 +1,69 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/d9cc524228f83bc399496db8407844e1",
+ "主题": [
+  "霍俊彦"
+ ],
+ "id": "CN-BT75ORMJ",
+ "工作单位": "西安电子科技大学综合业务网理论及关键技术国家重点实验室",
+ "被引次数": [
+  "629"
+ ],
+ "成果数": [
+  "44"
+ ],
+ "H指数": [
+  "11"
+ ],
+ "G指数": [
+  "24"
+ ],
+ "领域": [
+  "算法理论"
+ ],
+ "合作者": [
+  "常义林",
+  "杨海涛",
+  "马彦卓",
+  "元辉"
+ ],
+ "合作单位": [
+  "西安电子科技大学综合业务网理论及关键技术国家重点实验室",
+  "西安电子科技大学",
+  "西安电子科技大学",
+  "西安电子科技大学综合业务网理论及关键技术国家重点实验室"
+ ],
+ "合作机构": [
+  "西安电子科技大学综合业务网理论及关键技术国家重点实验室",
+  "西安电子科技大学",
+  "华为技术有限公司",
+  "西安电子科技大学ISN国家重点实验室",
+  "江苏省疾病预防控制中心",
+  "空军工程大学工程学院",
+  "沈阳化工研究院",
+  "昆明医学院公共卫生学院",
+  "郧阳医学院附属太和医院",
+  "山东大学齐鲁医院"
+ ],
+ "论文": [
+  "Fine Virtual View Distortion Estimation Method for Depth Map Coding",
+  "Adaptive Lagrangian Multiplier derivation model for depth map coding",
+  "Method and apparatus for computing a parallax",
+  "利用视频与深度图相关性的深度图帧内编码",
+  "Edge skip intra coding method for depth coding",
+  "基于分级B预测结构的快速多视点深度编码算法",
+  "基于宏块模式相关性的深度帧内跳过编码",
+  "Novel 3DV Coding Scheme with Down-/Up-sampling and Asymmetrical Prediction",
+  "一种三维视频深度图像快速帧内编码方法",
+  "Texture video-assisted motion vector predictor for depth map coding",
+  "Model-Based Joint Bit Allocation Between Texture Videos and Depth Maps for 3-D Video Coding",
+  "Efficient Prediction Structure for Key Pictures in Multiview Video Coding",
+  "Efficient Prediction Structure for Key Pictures in Multiview Video Coding",
+  "Picturewise inter-view prediction selection for multiview video coding",
+  "Video coding and decoding method and codex based on motion skip mode",
+  "THE VIDEO ENCODING AND DECODING METHOD AND CORRESPONDING CODEC BASED ON THE MOTION SKIP MODE",
+  "Frequency Based Down-sampling/Up-sampling Algorithm for Chrominance Component",
+  "多视点视频编码的研究现状及其展望",
+  "Notice of RetractionA novel 3-D Interleaving method for video transmission over OFDM in mobile wireless channels",
+  "Procédé et système de masquage d'erreurs"
+ ]
+}

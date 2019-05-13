@@ -1,0 +1,68 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/415a09c36b7c6dc461e593d4a88439f1",
+ "主题": [
+  "银振强"
+ ],
+ "id": "CN-BW74HMWJ",
+ "工作单位": "中国科学技术大学/中国科学技术大学量子信息重点实验室",
+ "被引次数": [
+  "1853"
+ ],
+ "成果数": [
+  "144"
+ ],
+ "H指数": [
+  "23"
+ ],
+ "G指数": [
+  "39"
+ ],
+ "领域": [
+  "量子密码/量子信息/量子光学"
+ ],
+ "合作者": [
+  "韩正甫",
+  "陈巍",
+  "郭光灿",
+  "王双"
+ ],
+ "合作单位": [
+  "中国科学技术大学量子信息重点实验室",
+  "中国科学技术大学中国科学院量子信息重点实验室",
+  "中国科学技术大学物理系",
+  "中国科学技术大学"
+ ],
+ "合作机构": [
+  "中国科学技术大学量子信息重点实验室",
+  "中国科学技术大学中国科学院量子信息重点实验室",
+  "中国科学技术大学",
+  "中国科学技术大学物理系",
+  "中国科学技术大学计算机科学技术系",
+  "中国人民解放军信息工程大学电子技术学院",
+  "中国科学技术大学近代物理系",
+  "中国科学技术大学量子重点实验室",
+  "解放军信息工程大学电子技术学院",
+  "西南交通大学信息科学与技术学院"
+ ],
+ "论文": [
+  "Proof-of-principle experimental realization of a qubit-like qudit-based quantum key distribution scheme",
+  "Sine-wave gating InGaAs/InP single photon detector with ultralow afterpulse",
+  "Dove prism in single-path Sagnac interferometer for orbital-angular-momentum photon states",
+  "Single-path Sagnac interferometer with Dove prism for orbital-angular-momentum photon manipulation",
+  "Proof-of-principle implementation of a quantum random number generator with independent devices and a dimension witness",
+  "Polarization variations in installed fibers and their influence on quantum key distribution systems",
+  "Polarization-basis tracking scheme for quantum key distribution using revealed sifted key bits",
+  "Erratum: Scalable orbital-angular-momentum sorting without destroying photon states [Phys. Rev. A 94 , 033847 (2016)]",
+  "Loss-tolerant measurement-device-independent quantum private queries",
+  "Simple and practical method to characterize the parametric down-conversion source",
+  "Measurement-device-independent quantum key distribution robust against environmental disturbances",
+  "A resource-saving realization of the polarization-independent orbital-angular-momentum-preserving tunable beam splitter",
+  "Implementing long-distance round-robin-differential-phase-shift quantum key distribution with simplest setup",
+  "Realistic Device Imperfections Affect the Performance of Hong-Ou-Mandel Interference with Weak Coherent States",
+  "Polarization-basis tracking scheme for quantum key distribution using revealed sifted key bits",
+  "Trustworthiness of measurement devices in round-robin differential-phase-shift quantum key distribution",
+  "Experimental demonstration on the deterministic quantum key distribution based on entangled photons",
+  "Hong–Ou–Mandel interference with two independent weak coherent states",
+  "More randomness from a prepare-and-measure scenario with independent devices"
+ ]
+}

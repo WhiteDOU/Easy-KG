@@ -1,0 +1,68 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/8dcfb7e658f88539fa1afe2ba6e92cdc",
+ "主题": [
+  "侯晴宇"
+ ],
+ "id": "CN-B5745U0J",
+ "工作单位": "哈尔滨工业大学空间光学工程研究中心",
+ "被引次数": [
+  "356"
+ ],
+ "成果数": [
+  "74"
+ ],
+ "H指数": [
+  "10"
+ ],
+ "G指数": [
+  "15"
+ ],
+ "领域": [
+  "光学"
+ ],
+ "合作者": [
+  "张伟",
+  "武春风",
+  "智喜洋",
+  "逯力红"
+ ],
+ "合作单位": [
+  "哈尔滨工业大学",
+  "哈尔滨工业大学控制科学与工程系",
+  "哈尔滨工业大学空间光学工程研究中心",
+  "天津工业大学理学院"
+ ],
+ "合作机构": [
+  "哈尔滨工业大学空间光学工程研究中心",
+  "哈尔滨工业大学",
+  "哈尔滨工业大学控制科学与工程系",
+  "天津工业大学理学院",
+  "第三军医大学西南医院",
+  "中国三江航天集团设计所",
+  "哈尔滨工业大学市政环境工程学院",
+  "中国科学院研究生院",
+  "宁波大学信息科学与工程学院",
+  "中国空间技术研究院"
+ ],
+ "论文": [
+  "在轨空间目标光学特性宏观表征模型的反演重构",
+  "融合多特征的天基典型目标光学识别方法",
+  "基于灰度线性建模的亚像素图像抖动量计算",
+  "基于空不变图像复原的光学遥感成像系统优化",
+  "采用时序多谱段信号分析的空间目标运动状态辨识",
+  "扫描非均匀性对点目标探测影响",
+  "Non-local and Nonlinear Background Suppression Method Controlled By Multi-scale Clutter Metric",
+  "红外云杂波下点目标检测算法性能评价",
+  "红外双波段目标模拟器方案与光学系统设计",
+  "Modeling and validation of spectral BRDF on material surface of space target",
+  "Design for scheme of infrared dual-band target simulator and projection optical system",
+  "Fast small target tracking in IR imagery based on improved similarity measure",
+  "特征空间线性降维压缩遥感图像云检测方法",
+  "基于多属性融合的高分辨率遥感图像云检测方法",
+  "最小化支持向量数分类器的云检测",
+  "Identification method of satellite local components based on combined feature metrics",
+  "Degradation and restoration of high resolution TDICCD imagery due to satellite vibrations",
+  "Background suppression for cloud clutter using temporal difference projection",
+  "Scattering near specular direction for horizontally oriented ice discs"
+ ]
+}

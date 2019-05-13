@@ -1,0 +1,63 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/5ffce246b4195f09a7789b2b05ef8dad",
+ "主题": [
+  "张晓霞"
+ ],
+ "id": "CN-B5738ELJ",
+ "工作单位": "北京应用物理与计算数学研究所高性能计算中心",
+ "被引次数": [
+  "28"
+ ],
+ "成果数": [
+  "19"
+ ],
+ "H指数": [
+  "4"
+ ],
+ "G指数": [
+  "5"
+ ],
+ "领域": [
+  "分布式与并行计算"
+ ],
+ "合作者": [
+  "罗红兵",
+  "武林平",
+  "曹立强",
+  "段发阶"
+ ],
+ "合作单位": [
+  "北京应用物理与计算数学研究所高性能计算中心",
+  "北京应用物理与计算数学研究所高性能计算中心",
+  "北京应用物理与计算数学研究所",
+  "天津大学精密测试技术及仪器国家重点实验室"
+ ],
+ "合作机构": [
+  "北京应用物理与计算数学研究所高性能计算中心",
+  "北京应用物理与计算数学研究所",
+  "天津大学精密测试技术及仪器国家重点实验室",
+  "天津大学精密仪器工程系",
+  "上海激光等离子体研究所"
+ ],
+ "论文": [
+  "Alltoall通信性能模型研究",
+  "MPI集合通信性能可扩展性研究与分析",
+  "Analysis of Scalability for MPI Collective Communication",
+  "科学计算应用程序单核指令级优化研究",
+  "基于GMA的轻量级高性能计算环境监控",
+  "Lightweight High Performance Computing Environment Monitoring System Based on GMA基于GMA的轻量级高性能计算环境监控",
+  "并行程序的指令级并行优化探讨",
+  "集群系统运行状态监控软件设计",
+  "高分辨率数值计算研究",
+  "基于预算的资源管理模型",
+  "集群系统运行状态监控软件设计",
+  "多模式并行I/O测试程序Jetter的研究与实现",
+  "Research and implementation on multi-mode parallel I/O benchmark Jetter",
+  "Measurement and Analysis of Factors Affecting NFS Bandwidth in Cluster",
+  "可扩展并行作业调度模拟器ParaSim设计与应用",
+  "集群环境中影响NFS文件系统带宽的测试与分析",
+  "大规模并行计算机作业调度评价",
+  "并行作业调度模拟器设计与实现",
+  "Separation method for positioning errors of a visual inspection system"
+ ]
+}

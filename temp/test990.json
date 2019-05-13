@@ -1,0 +1,69 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/a01f2b467d7f9fd66fc43170437ce1b0",
+ "主题": [
+  "武林平"
+ ],
+ "id": "CN-B873XQEJ",
+ "工作单位": "北京应用物理与计算数学研究所高性能计算中心",
+ "被引次数": [
+  "142"
+ ],
+ "成果数": [
+  "30"
+ ],
+ "H指数": [
+  "6"
+ ],
+ "G指数": [
+  "11"
+ ],
+ "领域": [
+  "分布式与并行计算/科学计算"
+ ],
+ "合作者": [
+  "罗红兵",
+  "詹剑锋",
+  "孟丹",
+  "张晓霞"
+ ],
+ "合作单位": [
+  "北京应用物理与计算数学研究所高性能计算中心",
+  "中国科学院研究生院",
+  "中国科学院研究生院",
+  "北京应用物理与计算数学研究所高性能计算中心"
+ ],
+ "合作机构": [
+  "北京应用物理与计算数学研究所高性能计算中心",
+  "中国科学院研究生院",
+  "北京应用物理与计算数学研究所",
+  "国防科学技术大学计算机学院",
+  "中国科学院计算技术研究所",
+  "同济大学中德学院",
+  "国防科技大学计算机学院",
+  "成都军区总医院",
+  "河北医科大学第二医院",
+  "上海交通大学"
+ ],
+ "论文": [
+  "基于JASMIN框架多物理耦合程序的性能优化及分析",
+  "系统噪音影响的量化分析",
+  "科学计算应用程序单核指令级优化研究",
+  "系统噪音影响的量化分析",
+  "基于硬件事件的并行程序指令级性能模型与应用",
+  "迭代方法中基于渐近规模的通信与计算比分析",
+  "基于硬件事件的并行程序指令级性能模型与应用",
+  "SSTD:基于栈帧分析的可扩展并行程序调试工具",
+  "Analysis of Communication-to-Computation Based on Asymptotic Size for Iterative Methods",
+  "A Multi-constraint Preemption Algorithm for Parallel Job Scheduling",
+  "并行程序的指令级并行优化探讨",
+  "提高集群系统稳定性的自动化管理方法",
+  "提高集群系统稳定性的自动化管理方法",
+  "集群系统运行状态监控软件设计",
+  "基于预算的资源管理模型",
+  "集群系统运行状态监控软件设计",
+  "A Runtime Fault Detection Method for HPC Cluster",
+  "Synthesis, characterizations and biocompatibility of novel biodegradable star block copolymers based on poly[(R)-3-hydroxybutyrate] and poly(epsilon-caprolactone).",
+  "大规模计算系统的主动故障管理方法",
+  "高性能计算中处理器功耗特征的评测与分析"
+ ]
+}

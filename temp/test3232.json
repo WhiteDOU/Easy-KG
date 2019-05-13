@@ -1,0 +1,67 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/900173add4bd8b712089f8a30cabfb2e",
+ "主题": [
+  "钱永刚"
+ ],
+ "id": "CN-BD75MR4J",
+ "工作单位": "中国科学院光电研究院对地观测技术应用研究部",
+ "被引次数": [
+  "83"
+ ],
+ "成果数": [
+  "52"
+ ],
+ "H指数": [
+  "5"
+ ],
+ "G指数": [
+  "8"
+ ],
+ "领域": [
+  "摄影测量与遥感"
+ ],
+ "合作者": [
+  "王宁",
+  "马灵玲",
+  "唐伶俐",
+  "李传荣"
+ ],
+ "合作单位": [
+  "天津大学",
+  "中国科学院光电研究院",
+  "中国科学院中国遥感卫星地面站",
+  "中国科学院光电研究院"
+ ],
+ "合作机构": [
+  "中国科学院光电研究院",
+  "天津大学",
+  "中国科学院中国遥感卫星地面站",
+  "中国科学院研究生院",
+  "鲁东大学地理与规划学院",
+  "中国科学院地理科学与资源研究所陆地水循环及地表过程重点实验室",
+  "中国科学院上海天文台",
+  "中国科学院地理科学与资源研究所",
+  "华中科技大学同济医学院附属同济医院",
+  "成都理工大学信息工程学院"
+ ],
+ "论文": [
+  "Evaluation of land surface temperature by comparing FY-3C/VIRR with Terra/MODIS and MSG/SEVIRI data",
+  "Vicarious radiometric calibration/validation of Landsat-8 operational land imager using a ground reflected radiance-based approach with Baotou site in China",
+  "A comprehensive evaluation of the performance of temperature and emissivity separation method with simulated thermal infrared hyperspectral data",
+  "A temperature and emissivity retrieval algorithm based on atmospheric absorption feature from hyperspectral thermal infrared data",
+  "Land Surface Temperature Retrieval Using Nighttime Mid-Infrared Channels Data From Airborne Hyperspectral Scanner",
+  "Land Surface Temperature Retrieval From FY-3C/VIRR Data and Its Cross-Validation With Terra/MODIS",
+  "An automatic reflectance-based approach to vicarious radiometric calibrate the Landsat8 operational land imager",
+  "Ground-based automated radiometric calibration system in Baotou site, China",
+  "Influence of sensor spectral properties on temperature and emissivity separation for hyperspectral thermal infrared data",
+  "Normalization of time-series satellite reflectance data to a standard sun-target-sensor geometry using a semi-empirical model",
+  "Land surface temperature retrieved from combined mid-infrared and thermal infrared data",
+  "remotesensing-08-00077",
+  "An Improved Atmospheric Correction Method with Diurnal Temperature Cycle Model for MSG-SEVIRI TIR Data under Clear Sky Condition",
+  "Land surface temperature retrieved from airborne multispectral scanner mid-infrared and thermal-infrared data",
+  "Evaluation of Temperature and Emissivity Retrieval using Spectral Smoothness Method for Low-Emissivity Materials",
+  "Vicarious absolute radiometric calibration of GF-2 PMS2 sensor using permanent artificial targets in China",
+  "Study of aerosol influence on nighttime land surface temperature retrieval based on two methods",
+  "Evaluation of temperature and emissivity separation method using the hyperspectral data for contrast emissivity surfaces"
+ ]
+}

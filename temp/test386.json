@@ -1,0 +1,68 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/1db0cfc7361ac96c3575f0e4cc18e946",
+ "主题": [
+  "薛巍"
+ ],
+ "id": "CN-BK75SB8J",
+ "工作单位": "清华大学计算机科学与技术系",
+ "被引次数": [
+  "1576"
+ ],
+ "成果数": [
+  "150"
+ ],
+ "H指数": [
+  "24"
+ ],
+ "G指数": [
+  "34"
+ ],
+ "领域": [
+  "电力系统及其自动化"
+ ],
+ "合作者": [
+  "舒继武",
+  "郑纬民",
+  "杨广文",
+  "张广艳"
+ ],
+ "合作单位": [
+  "清华大学计算机科学与技术系",
+  "清华大学计算机科学与技术系",
+  "清华大学计算机科学与技术系",
+  "清华大学计算机科学与技术系"
+ ],
+ "合作机构": [
+  "清华大学计算机科学与技术系",
+  "清华大学电机系",
+  "中国科学院软件研究所",
+  "中国气象局",
+  "中国科学院研究生院",
+  "中国科学院大气物理研究所大气科学和地球流体力学数值模拟国家重点实验室",
+  "国防科技大学计算机学院",
+  "解放军信息工程大学信息工程学院",
+  "中国电信股份有限公司",
+  "北京市清华仿真工程研究所"
+ ],
+ "论文": [
+  "Preferred search over encrypted data",
+  "Automatic tuning of the Community Atmospheric Model CAM5.3 by using short-term hindcasts with an improved downhill simplex optimization method",
+  "An automatic performance model-based scheduling tool for coupled climate system models",
+  "swSpTRSV: A Fast Sparse Triangular Solve with Sparse Level Tile Layout on Sunway Architectures",
+  "vS ensor: leveraging fixed-workload snippets of programs for performance variance detection",
+  "Quantification of the responses of equatorial Pacific surface wind to uncertain cloud‐related parameters in GAMIL2",
+  "Understanding object-level memory access patterns across the spectrum",
+  "Solving global shallow water equations on heterogeneous supercomputers",
+  "Refactoring and Optimizing the Community Atmosphere Model (CAM) on the Sunway TaihuLight Supercomputer",
+  "26 PFLOPS Stencil Computations for Atmospheric Modeling on Sunway TaihuLight",
+  "Solving Mesoscale Atmospheric Dynamics Using a Reconfigurable Dataflow Architecture",
+  "Accelerating the 3D euler atmospheric solver through heterogeneous CPU-GPU platforms.",
+  "Quantification and optimization of parameter uncertainty in the grid-point atmospheric model GAMIL2",
+  "Accelerating the 3D euler atmospheric solver through heterogeneous CPU-GPU platforms.",
+  "10M-core scalable fully-implicit solver for nonhydrostatic atmospheric dynamics",
+  "Development and Testing of a Multi-model Ensemble Coupling Framework",
+  "Generalized GPU Acceleration for Applications Employing Finite-Volume Methods.",
+  "Unleashing the performance potential of CPU-GPU platforms for the 3D atmospheric Euler solver",
+  "Keyword Search with Access Control over Encrypted Cloud Data"
+ ]
+}

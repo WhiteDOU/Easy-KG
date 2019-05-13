@@ -1,0 +1,67 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/7dcbaeebf2c454dd1730a9af4646fb1e",
+ "主题": [
+  "晋蓓"
+ ],
+ "id": "CN-BG74SUIJ",
+ "工作单位": "南京师范大学虚拟地理环境教育部重点实验室",
+ "被引次数": [
+  "178"
+ ],
+ "成果数": [
+  "21"
+ ],
+ "H指数": [
+  "9"
+ ],
+ "G指数": [
+  "12"
+ ],
+ "领域": [
+  "大地测量学与测量工程"
+ ],
+ "合作者": [
+  "刘学军",
+  "王彦芳",
+  "周波",
+  "王艳芳"
+ ],
+ "合作单位": [
+  "南京师范大学虚拟地理环境教育部重点实验室",
+  "南京师范大学虚拟地理环境教育部重点实验室",
+  "浙江师范大学",
+  "吉林农业大学"
+ ],
+ "合作机构": [
+  "南京师范大学虚拟地理环境教育部重点实验室",
+  "浙江师范大学",
+  "吉林农业大学",
+  "南京师范大学地理科学学院",
+  "西北农林科技大学信息工程学院",
+  "江苏石油化工学院化学工程系",
+  "南京市文苑路1号",
+  "南京航空航天大学航空电源重点实验室"
+ ],
+ "论文": [
+  "基于格网DEM的等高线提取误差传播模型",
+  "Quantitative Analysis of Error in Extracting Flow Length from Grid-based Digital Elevation Model",
+  "基于随机过程的格网DEM精度场模型",
+  "基于空间分析服务的模型组装平台的设计与实践",
+  "格网DEM上径流长度计算误差的定量分析",
+  "基于空间分析服务的模型组装平台的设计与实践",
+  "Resolution analysis of grid digital elevation model based on data property",
+  "The Research of 3D GIS Section for the True Three-Dimensional Geo-Spatial Model",
+  "ArcGIS环境下DEM的坡长计算与误差分析",
+  "顾及数据特性的格网DEM分辨率计算",
+  "Calculation and Realization of the GIS Raster Resolution: Calculation and Realization of the GIS Raster Resolution",
+  "Determination of suitable cell size for grid based digital elevation model",
+  "利用点扩散函数进行DEM尺度转换",
+  "格网DEM坡度计算模型的相似性研究",
+  "GIS栅格化分辨率计算器的实现与应用",
+  "基于DEM的任意方向坡度计算方法",
+  "Determination of suitable cell size for grid based digital elevation model",
+  "基于视频的车辆几何参数提取与车型分类",
+  "Vehicle Geometric Parameters Extraction and Vehicle-type Classification Based on Video",
+  "Similarity analysis of flow route algorithms for extractingdrainage network from grid-based terrain model"
+ ]
+}

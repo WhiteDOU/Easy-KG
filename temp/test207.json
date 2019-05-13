@@ -1,0 +1,69 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/cf6341ee7f58da50135fbc81a361811d",
+ "主题": [
+  "陈秋晓"
+ ],
+ "id": "CN-BT74RSAJ",
+ "工作单位": "中国科学院地理科学与资源研究所资源与环境信息系",
+ "被引次数": [
+  "1579"
+ ],
+ "成果数": [
+  "65"
+ ],
+ "H指数": [
+  "22"
+ ],
+ "G指数": [
+  "38"
+ ],
+ "领域": [
+  "摄影测量与遥感/地图制图学与地理信息工程"
+ ],
+ "合作者": [
+  "骆剑承",
+  "沈占锋",
+  "郑江",
+  "周成虎"
+ ],
+ "合作单位": [
+  "中国科学院地理科学与资源研究所资源与环境信息系",
+  "中国科学院遥感应用研究所",
+  "中国科学院地理科学与资源研究所资源与环境信息系",
+  "中国科学院地理科学与资源研究所资源与环境信息系"
+ ],
+ "合作机构": [
+  "中国科学院地理科学与资源研究所资源与环境信息系",
+  "中国科学院遥感应用研究所",
+  "中国科学院地理科学与资源研究所",
+  "信息工程大学测绘学院",
+  "测绘信息中心",
+  "浙江科技学院信息与电子工程学院",
+  "四川大学电子信息学院图像信息研究所",
+  "中国地质大学地球科学与资源学院",
+  "西安交通大学理学院",
+  "南京师范大学虚拟地理环境教育部重点实验室"
+ ],
+ "论文": [
+  "基于知识的空间特征逐步寻优挖掘模型及其在遥感影像分类中的应用",
+  "基于出行距离评价城市公园绿地的可达性—以乐清市为例",
+  "Rural Landscape Design-Method Researching Based on the Population Diversification",
+  "Urban Planning Compilation Problems in China and the Corresponding Optimization Ideas under the Vision of the Hyper-Cycle Theory",
+  "Travel distance-based accessibility evaluation for urban public park: the example of Yueqing City.",
+  "遥感影像矢量化图形的多层次优化方法",
+  "阴影辅助下的面向对象城市建筑物提取",
+  "高分辨率遥感影像并行分割结果缝合算法",
+  "Data sewing algorithm for parallel segmentation of high-resolution remotely sensed image高分辨率遥感影像并行分割结果缝合算法",
+  "面向遥感目标识别耦合GA与SVM的特征优选方法",
+  "Theoretic and Methodological Review on Sensor Information Tupu Computation: Theoretic and Methodological Review on Sensor Information Tupu Computation",
+  "均值漂移高分辨率遥感影像多尺度分割的集群实现",
+  "遥感信息图谱计算的理论方法研究",
+  "Implementation of multi-scales segmentation for high resolution RS images based on cluster",
+  "基于MPI的遥感影像高效能并行处理方法研究",
+  "High-efficiency Remotely Sensed Image Parallel Processing Method Study Based on MPI基于MPI的遥感影像高效能并行处理方法研究",
+  "基于OGSA的网格地理信息系统体系结构研究",
+  "高分辨率遥感影像并行处理数据分配策略研究",
+  "基于局域同质性梯度的遥感图像分割方法及其评价",
+  "基于Web Service的分布式遥感影像数据库设计与实现"
+ ]
+}

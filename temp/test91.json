@@ -1,0 +1,66 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/737638ddeb8db476996ceb82379911cf",
+ "主题": [
+  "郑纬民"
+ ],
+ "id": "CN-BI74PNLJ",
+ "工作单位": "清华大学计算机科学与技术系",
+ "被引次数": [
+  "11238"
+ ],
+ "成果数": [
+  "913"
+ ],
+ "H指数": [
+  "42"
+ ],
+ "G指数": [
+  "82"
+ ],
+ "领域": [
+  "分布式与并行计算"
+ ],
+ "合作者": [
+  "舒继武",
+  "沈美明",
+  "武永卫",
+  "杨广文"
+ ],
+ "合作单位": [
+  "清华大学计算机科学与技术系",
+  "清华大学计算机科学与技术系",
+  "清华大学计算机科学与技术系",
+  "清华大学计算机科学与技术系"
+ ],
+ "合作机构": [
+  "清华大学计算机科学与技术系",
+  "中国电信股份有限公司",
+  "清华大学信息技术研究院",
+  "清华大学",
+  "清华大学计算机系",
+  "清华大学工程力学系",
+  "清华大学计算机科学与技术系高性能计算技术研究所",
+  "北京系统工程研究所",
+  "哈尔滨工程大学计算机科学与技术学院",
+  "北京应用物理与计算数学研究所"
+ ],
+ "论文": [
+  "An automatic performance model-based scheduling tool for coupled climate system models",
+  "An Efficient In-Memory Checkpoint Method and its Practice on Fault-Tolerant HPL",
+  "DudeTx: Durable Transactions Made Decoupled",
+  "I/O-Conscious and Prediction-Enabled Virtual Machines Scheduling",
+  "DATA STORAGE SYSTEM AND DATA STORAGE METHOD",
+  "DudeTM: Building Durable Transactions with Decoupling for Persistent Memory",
+  "面向MPI集合操作的定制化片上网络",
+  "Self-Checkpoint: An In-Memory Checkpoint Method Using Less Space and Its Practice on Fault-Tolerant HPL",
+  "In-Place Irregular Computation for Message-Passing Chip-Multiprocessors",
+  "Accelerating breadth-first graph search on a single server by dynamic edge trimming",
+  "High Performance Graph Processing with Locality Oriented Design",
+  "PDFS: Partially Dedupped File System for Primary Workloads",
+  "Scalable Graph Traversal on Sunway TaihuLight with Ten Million Cores",
+  "Self-Checkpoint: An In-Memory Checkpoint Method Using Less Space and Its Practice on Fault-Tolerant HPL",
+  "蓬勃发展的中国计算机事业",
+  "高等计算机系统结构课程研究型教学探讨",
+  "Optimized Mapping Spiking Neural Networks onto Network-on-Chip"
+ ]
+}

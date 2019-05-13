@@ -1,0 +1,69 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/c2ba2cbb41436f64e0e5545c84517f17",
+ "主题": [
+  "叶佩青"
+ ],
+ "id": "CN-BT738W2J",
+ "工作单位": "清华大学精密仪器与机械学系",
+ "被引次数": [
+  "2175"
+ ],
+ "成果数": [
+  "195"
+ ],
+ "H指数": [
+  "24"
+ ],
+ "G指数": [
+  "40"
+ ],
+ "领域": [
+  "车辆工程"
+ ],
+ "合作者": [
+  "张辉",
+  "汪劲松",
+  "杨开明",
+  "赵彤"
+ ],
+ "合作单位": [
+  "中国农业机械化科学研究院",
+  "清华大学精密仪器与机械学系",
+  "清华大学精密仪器与机械学系",
+  "清华大学精密仪器与机械学系"
+ ],
+ "合作机构": [
+  "清华大学精密仪器与机械学系",
+  "中国农业机械化科学研究院",
+  "清华大学精密仪器与机械学系制造工程研究所",
+  "清华大学摩擦学国家重点实验室",
+  "国内贸易工程设计研究院",
+  "清华大学工程物理系",
+  "清华大学精密系制造工程研究所",
+  "南京航空航天大学CAD/CAM工程研究中心",
+  "清华大学精密仪器系制造工程研究所",
+  "青海大学机械系"
+ ],
+ "论文": [
+  "Error constraint optimization for corner smoothing algorithms in high-speed CNC machine tools",
+  "Optimal curvature-smooth transition and efficient feedrate optimization method with axis kinematic limitations for linear toolpath",
+  "Research on Surface Roughness Prediction of Turning Parts Based on BP Artificial Neural Network",
+  "Mover Position Detection for PMTLM Based on Linear Hall Sensors through EKF Processing",
+  "Development and performance evaluation of a high‐speed multileaf collimator",
+  "圆筒型永磁直线同步电机用线性霍尔位置检测的误差补偿",
+  "基于组合继电反馈的永磁同步直线电机推力波动辨识方法",
+  "智能制造环境下的数控系统发展需求",
+  "永磁同步直线电机霍尔位置检测传感器的优化",
+  "An improved position detection method for permanent magnet linear motor using linear hall sensors",
+  "Error Compensation of Linear Hall Based Position Detection for Tubular Permanent Magnetic Linear Synchronous Motor",
+  "Load capacity of a new rope-climbing robot",
+  "An optimal curvature-smooth transition algorithm with axis jerk limitations along linear segments",
+  "Driving Force Constraint Corner Smoothing Method for High-Speed Machine Tools",
+  "基于多周期迭代滑模控制的直线电机干扰抑制",
+  "Lateral Penumbra Modelling Based Leaf End Shape Optimization for Multileaf Collimator in Radiotherapy",
+  "Performance evaluation of a high-speed multileaf collimator in real-time IMRT delivery to moving targets",
+  "The impact of different leaf limited accelerations on leaf-positional error of a self-developed MLC prototype",
+  "Multi-physics analysis of permanent magnet tubular linear motors under severe volumetric and thermal constraints",
+  "基于等效运动副化及运动副退化的公差分析法"
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/7a8f395d70bed1452f498cc1395acdd1",
+ "主题": [
+  "胡卫生"
+ ],
+ "id": "CN-BP75OY7J",
+ "工作单位": "上海交通大学区域光纤通信网与新型光通信系统国家重点实验室",
+ "被引次数": [
+  "3541"
+ ],
+ "成果数": [
+  "648"
+ ],
+ "H指数": [
+  "29"
+ ],
+ "G指数": [
+  "42"
+ ],
+ "领域": [
+  "光学/通信与信息系统"
+ ],
+ "合作者": [
+  "金耀辉",
+  "孙卫强",
+  "郭薇",
+  "义理林"
+ ],
+ "合作单位": [
+  "上海交通大学区域光纤通信网与新型光通信系统国家重...",
+  "中国科学技术大学电子工程与信息科学系",
+  "武汉大学计算机学院",
+  "上海交通大学"
+ ],
+ "合作机构": [
+  "上海交通大学区域光纤通信网与新型光通信系统国家重点实验室",
+  "中国科学技术大学电子工程与信息科学系",
+  "武汉大学计算机学院",
+  "上海交通大学",
+  "清华大学电子工程系",
+  "中国科学院上海光学精密机械研究所",
+  "浙江工业大学信息学院",
+  "浙江工业大学信息工程学院",
+  "上海交通大学宽带光网研究中心",
+  "解放军总医院"
+ ],
+ "论文": [
+  "JPHOT2848248",
+  "Power budget enhancement in NG-EPON system employing novel twisted-PAM4",
+  "Phase chaos generation and security enhancement by introducing fine-controllable dispersion",
+  "Chaotic optical communications over 100-km fiber transmission at 30-Gb/s bit rate",
+  "Chirp-aided power fading mitigation for upstream 100 km full-range long reach PON with DBR DML",
+  "SBS-based OEO with high tuning resolution and wide tuning range by selecting different-order phase modulation sideband as pump",
+  "Programmable and fast-switchable passively harmonic mode-locking fiber laser",
+  "High-fidelity and low-latency mobile fronthaul based on segment-wise TDM and MIMO-interleaved arraying",
+  "Spectrally efficient digitized radio-over-fiber system with k-means clustering-based multidimensional quantization",
+  "Frequency Domain Equalization Method",
+  "Flexible Hybrid PAM2/4 for Fidelity Optimization in Digital Mobile Fronthaul",
+  "Chaotic Constellation Mapping for Physical-Layer Data Encryption in OFDM-PON",
+  "An IF-Free TDM Fronthaul Aggregating Two 128-MIMO Signals with Enhanced Spectral Efficiency Using Baseband Sample Interleaved Gathering",
+  "50-Gb/s TDM-PON Based on 10G-Class Devices by Optics-simplified DSP",
+  "Symmetric 100-Gb/s TWDM-PON in O-Band Based on 10G-Class Optical Devices Enabled by Dispersion-Supported Equalization",
+  "Generation and phase noise analysis of a wide optoelectronic oscillator with ultra-high resolution based on stimulated Brillouin scattering",
+  "100Gbps IM/DD Transmission over 25km SSMF using 20G-class DML and PIN Enabled by Machine Learning",
+  "OLS based RBF Neural Network for Nonlinear and Linear Impairments Compensation in CO-OFDM System",
+  "A novel three-ring-core few-mode fiber with large effective area and low nonlinear coefficient",
+  "CAPEX Optimization with Joint Allocation of Hybrid RF/FSO and Optical Fibre Resources in 5G Backhaul"
+ ]
+}

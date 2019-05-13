@@ -1,0 +1,69 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/c861905c9d825bb50d5822bf1dfda953",
+ "主题": [
+  "傅承毓"
+ ],
+ "id": "CN-BC748JSJ",
+ "工作单位": "中国科学院光电技术研究所",
+ "被引次数": [
+  "968"
+ ],
+ "成果数": [
+  "74"
+ ],
+ "H指数": [
+  "18"
+ ],
+ "G指数": [
+  "29"
+ ],
+ "领域": [
+  "计算机视觉"
+ ],
+ "合作者": [
+  "马佳光",
+  "黄永梅",
+  "刘兴法",
+  "安凯"
+ ],
+ "合作单位": [
+  "中国科学院光电技术研究所",
+  "中国科学院光电技术研究所",
+  "中国科学院光电技术研究所",
+  "山东航天电子技术研究所"
+ ],
+ "合作机构": [
+  "中国科学院光电技术研究所",
+  "中国科学院研究生院",
+  "山东航天电子技术研究所",
+  "重庆邮电大学自动化学院",
+  "中国电子科技集团公司",
+  "中国科学院光束控制重点实验室",
+  "南京大学物理系",
+  "中国科学院软件研究所",
+  "四川大学华西医院",
+  "河南财经政法大学"
+ ],
+ "论文": [
+  "一种液晶相位调制特性的测量方法",
+  "基于可编程逻辑电路的相机高精度同步信号研究",
+  "Improvement of pointing accuracy for Risley prisms by parameter identification",
+  "High precision pointing system based on Risley prism: Analysis and simulation",
+  "Convolution Filtering Optimization Based on Linear Texture Filtering Function of GPU",
+  "Real-time Visual Simulation System for Photoelectric Theodolite",
+  "Multi-closed loops strategy combined with torque correction for high precision tracking system",
+  "Real-time Gray-scale scene rendering in multigen-vega applications",
+  "Acceleration feedback control for low velocity friction in a servo control system",
+  "Acceleration feedback of a CCD-based tracking loop for fast steering mirror",
+  "Error-space estimate method for generalized synergic target tracking",
+  "Data fusion algorithm for uncertain measurement in sensor networks",
+  "Combined method of uncertain measurement fusion",
+  "Measurement fusion algorithm for dissimilar sensors based on equivalent sensor",
+  "Measurement fusion algorithm based on equivalent sensor in sensor networks",
+  "异类传感器融合跟踪的等效传感器方法",
+  "基于STFT和FrFT的连续波雷达参数估计",
+  "预测轨迹修正单检测型复合轴控制方法",
+  "Position prediction method for satellite tracking based on error-space estimate",
+  "Control Method for High-Accuracy Fine Steering Mirror Based on Slow Sampling Rate of Tracking Sensor Signal"
+ ]
+}

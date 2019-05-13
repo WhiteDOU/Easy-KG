@@ -1,0 +1,66 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/fba3ffe88d06d23606e0251b948be86a",
+ "主题": [
+  "吕高锋"
+ ],
+ "id": "CN-BB74K2AJ",
+ "工作单位": "国防科学技术大学计算机学院",
+ "被引次数": [
+  "93"
+ ],
+ "成果数": [
+  "41"
+ ],
+ "H指数": [
+  "5"
+ ],
+ "G指数": [
+  "8"
+ ],
+ "领域": [
+  "计算机网络"
+ ],
+ "合作者": [
+  "孙志刚",
+  "卢锡城",
+  "李韬",
+  "毛健彪"
+ ],
+ "合作单位": [
+  "国防科学技术大学计算机学院",
+  "国防科技大学计算机学院",
+  "国防科学技术大学计算机学院",
+  "国防科学技术大学计算机学院"
+ ],
+ "合作机构": [
+  "国防科学技术大学计算机学院",
+  "国防科技大学计算机学院",
+  "杭州职业技术学院友嘉机电学院",
+  "国防大学信息作战与指挥训练教研部",
+  "莆田学院附属医院",
+  "中国医学科学院北京协和医院",
+  "辽宁师范大学计算机与信息技术学院"
+ ],
+ "论文": [
+  "Demonstration of Path-Based Packet Batcher for Accelerating Vectorized Packet Processing",
+  "MCPP: A High-efficiency Routing Table Lookup Based on NPDK",
+  "FRINGE: Improving the scalability of Ethernet DCN via efficient software-defined edge control",
+  "LDFS：NDN路由器的缓存扩充新方法",
+  "DEFIO: A Software Defined Storage Network Architecture in HPC Environments",
+  "HiTrans: An FPGA-Based Gateway Design and Implementation in HPC Environments",
+  "Demostration of Self-Described Buffer for Accelerating Packet Forwarding on Multi-core Servers.",
+  "Topology-independent Software-Defined Edge Control for Scalable Ethernet DCN",
+  "Research and implementation of IB and Ethernet stateless conversion technology",
+  "基于可变步长的访存延迟测量模型的研究与实现",
+  "SaHaD: A Fine-grained In-network Latency Measurement for Datacenter Network",
+  "基于标签的多协议承载机制研究",
+  "Towards Internet Innovation: Software Defined Data Plane",
+  "对软件定义网络数据面抽象的重新思考",
+  "Study on the Label-based Multi-protocol Supported Mechanism",
+  "Differentiated Transport-Layer Network Bandwidth Allocation for InfiniBand Datacenter",
+  "LabelCast:一种普适的SDN转发平面抽象",
+  "Neighbor gradient-based multicast routing for service-oriented applications",
+  "面向InfiniBand数据中心的区别化传输层带宽划分机制",
+  "LabelCast:A General Abstraction for the Forwarding Plane of SDN"
+ ]
+}

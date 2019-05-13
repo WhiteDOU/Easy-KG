@@ -1,0 +1,68 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/a6c296d9a5538c09c7a0d043feff6984",
+ "主题": [
+  "付承毓"
+ ],
+ "id": "CN-BH74SCHJ",
+ "工作单位": "中国科学院光束控制重点实验室",
+ "被引次数": [
+  "418"
+ ],
+ "成果数": [
+  "73"
+ ],
+ "H指数": [
+  "11"
+ ],
+ "G指数": [
+  "18"
+ ],
+ "领域": [
+  "光学"
+ ],
+ "合作者": [
+  "唐涛",
+  "黄永梅",
+  "马佳光",
+  "李国友"
+ ],
+ "合作单位": [
+  "中国科学院研究生院",
+  "中国科学院光电技术研究所",
+  "中国科学院光电技术研究所",
+  "中国科学院光电技术研究所"
+ ],
+ "合作机构": [
+  "中国科学院光电技术研究所",
+  "中国科学院研究生院",
+  "徐州空军学院",
+  "南京大学物理系",
+  "吉林大学计算机科学与技术学院",
+  "中国科学院声学研究所",
+  "四川大学电气信息学院",
+  "哈尔滨工业大学",
+  "湖南科技大学知识处理与网络化制造湖南省普通高校重点实验室",
+  "中国电子科技集团公司"
+ ],
+ "论文": [
+  "Error-Based Observer of a Charge Couple Device Tracking Loop for Fast Steering Mirror",
+  "Liquid-crystal beam deflection wave control method based on phased array radar",
+  "基于相控阵雷达模型的液晶光束偏转波控方法研究",
+  "Combining Charge Couple Devices and Rate Sensors for the Feedforward Control System of a Charge Coupled Device Tracking Loop",
+  "一种液晶相位调制特性的测量方法",
+  "内核多线程直接存储PCIE驱动设计",
+  "基于机器学习的目标跟踪算法研究综述",
+  "An Improved Mean-shift Algorithm for Target Tracking Based on Multi-feature Fusion",
+  "基于多特征融合的均值偏移目标跟踪方法",
+  "大气层外飞行器脱靶量的光学测量",
+  "Optical Measurement Method for Miss Distance of Exo-atmosphere Spacecraft",
+  "光通信中卫星振动抑制的自适应复合控制",
+  "惯性稳定平台中的加速度反馈控制技术",
+  "Adaptive Composite Control for Jitter Rejection of Satellite in Optical Communications",
+  "光电经纬仪中双电机同步控制技术",
+  "Two Motors Synchronization Control for Photoelectric Theodolite",
+  "基于光测数据的椭圆轨道落点预测方法",
+  "光测系统误差的轨道约束自校准",
+  "Test System for Theodolite Tracking Control System Based on RTW and Visual Simulation"
+ ]
+}

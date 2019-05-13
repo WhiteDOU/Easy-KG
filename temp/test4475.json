@@ -1,0 +1,68 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/017099a7c365209adc084a6bcecb7e95",
+ "主题": [
+  "李宏伟"
+ ],
+ "id": "CN-BX75CHIJ",
+ "工作单位": "中国科学技术大学计算机科学技术系",
+ "被引次数": [
+  "1405"
+ ],
+ "成果数": [
+  "120"
+ ],
+ "H指数": [
+  "18"
+ ],
+ "G指数": [
+  "34"
+ ],
+ "领域": [
+  "信息安全"
+ ],
+ "合作者": [
+  "韩正甫",
+  "陈巍",
+  "银振强",
+  "郭光灿"
+ ],
+ "合作单位": [
+  "中国科学技术大学量子信息重点实验室",
+  "中国科学技术大学中国科学院量子信息重点实验室",
+  "中国科学技术大学|中国科学技术大学量子信息重点实验室",
+  "中国科学技术大学物理系"
+ ],
+ "合作机构": [
+  "中国人民解放军信息工程大学电子技术学院",
+  "中国科学技术大学量子信息重点实验室",
+  "中国科学技术大学中国科学院量子信息重点实验室",
+  "解放军信息工程大学电子技术学院",
+  "中国科学技术大学",
+  "中国科学技术大学物理系",
+  "中国科学技术大学量子重点实验室",
+  "中国科学技术大学计算机科学技术系",
+  "西南交通大学信息科学与技术学院",
+  "首都医科大学附属北京朝阳医院"
+ ],
+ "论文": [
+  "Fragmentation of twisted light in photon–phonon nonlinear propagation",
+  "Security of BB84 with weak randomness and imperfect qubit encoding",
+  "Experimental three-party quantum random number generator based on dimension witness violation and weak measurement",
+  "Controlling a sine wave gating single-photon detector by exploiting its filtering loophole",
+  "Three-observer classical dimension witness violation with weak measurement",
+  "Round-robin differential quadrature phase-shift quantum key distribution",
+  "Proof of Security of a Semi-Device-Independent Quantum Key Distribution Protocol",
+  "有限长量子密钥分配认证的信息泄露研究",
+  "Application of a Discrete Phase-Randomized Coherent State Source in Round-Robin Differential Phase-Shift Quantum Key Distribution",
+  "High-dimensional quantum key distribution with the entangled single-photon-added coherent state",
+  "Measurement-device-independent quantum cryptographic conferencing with an untrusted source",
+  "Round-Robin Differential Phase Shift with Heralded Single-Photon Source",
+  "Fluctuations of Internal Transmittance in Security of Measurement-Device-Independent Quantum Key Distribution with an Untrusted Source*",
+  "Finite-key bound for semi-device-independent quantum key distribution",
+  "Passive Decoy-State Reference-Frame-Independent Quantum Key Distribution with Heralded Single-Photon Source",
+  "Time-energy high-dimensional one-side device-independent quantum key distribution",
+  "Asymmetric Decoy State Measurement-Device-Independent Quantum Cryptographic Conferencing",
+  "Practical round-robin differential phase-shift quantum key distribution",
+  "Tight finite-key analysis of a practical decoy-state quantum key distribution with unstable sources"
+ ]
+}

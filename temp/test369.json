@@ -1,0 +1,69 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/724b709f09bf000298b879f3810d7856",
+ "主题": [
+  "王华忠"
+ ],
+ "id": "CN-BO75NWYJ",
+ "工作单位": "同济大学海洋与地球科学学院",
+ "被引次数": [
+  "3625"
+ ],
+ "成果数": [
+  "332"
+ ],
+ "H指数": [
+  "27"
+ ],
+ "G指数": [
+  "51"
+ ],
+ "领域": [
+  "地球探测与信息技术/固体地球物理学"
+ ],
+ "合作者": [
+  "马在田",
+  "程玖兵",
+  "刘少勇",
+  "胡江涛"
+ ],
+ "合作单位": [
+  "同济大学海洋地质与地球物理系",
+  "同济大学海洋与地球科学学院",
+  "同济大学海洋与地球科学学院波现象与反演成像研究组",
+  "同济大学海洋与地球科学学院波现象与反演成像研究组"
+ ],
+ "合作机构": [
+  "同济大学海洋地质与地球物理系",
+  "同济大学海洋与地球科学学院",
+  "同济大学海洋与地球科学学院波现象与反演成像研究组",
+  "胜利油田分公司",
+  "中国石油化工股份有限公司",
+  "中国石化石油勘探开发研究院南京石油物探研究所",
+  "同济大学",
+  "同济大学海洋与地球科学学院海洋地质国家重点实验室",
+  "湖南科技大学土木工程学院",
+  "中国石油大学(华东)地球科学与技术学院"
+ ],
+ "论文": [
+  "3-d Butterworth Filtering For 3-d High-density Onshore Seismic Field Data",
+  "空间方向谱估计CLEAN算法及其在地震数据处理中的应用",
+  "Angle domain common imaging gather extraction via Kirchhoff prestack depth migration based on traveltime table in transversely isotropic media",
+  "Application of Frequency-dependent Traveltime Tomography To 2d Crosswell Seismic Field Data",
+  "First-arrival traveltime computation for quasi-P wave in 2D transversely isotropic media using Fermat’s principle based fast marching",
+  "Theory and method of least square prestack depth migration and imaging",
+  "3D traveltime computation for quasi-P-wave in orthorhombic media using dynamic programming",
+  "Data domain automatic reflection traveltime inversion via sparse decomposition of seismic data",
+  "3D first-arrival traveltime computation in orthorhombic media using dynamic programming",
+  "Q-compensated beam migration with multiscale Gabor transform",
+  "基于高斯束的速度层析方法研究",
+  "高斯波包散射体成像方法",
+  "特征波反演成像理论框架",
+  "Extended model imaging based on Gaussian packet",
+  "柯西波场及在角度域成像条件中的应用",
+  "Unified Suppression of Surface-Related Multiple and Ghost",
+  "Application of Lustre file system in seismic data processing",
+  "Angle gathers from reverse time migration using analytic wavefield propagation and decomposition in the time domain",
+  "基于经验模态分解和小波变换的地震瞬时频率提取方法及应用",
+  "Azimuth-opening angle domain common-image gathers from 3D Gaussian beam migration"
+ ]
+}

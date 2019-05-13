@@ -1,0 +1,68 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/2747a5c7c7f4e9bf2c959d6f506e3eeb",
+ "主题": [
+  "胡晓东"
+ ],
+ "id": "CN-BG74XRPJ",
+ "工作单位": "中国科学院遥感应用研究所",
+ "被引次数": [
+  "781"
+ ],
+ "成果数": [
+  "87"
+ ],
+ "H指数": [
+  "18"
+ ],
+ "G指数": [
+  "25"
+ ],
+ "领域": [
+  "摄影测量与遥感"
+ ],
+ "合作者": [
+  "骆剑承",
+  "沈占锋",
+  "夏列钢",
+  "程熙"
+ ],
+ "合作单位": [
+  "中国科学院地理科学与资源研究所资源与环境信息系",
+  "中国科学院遥感应用研究所",
+  "中国科学院遥感与数字地球研究所",
+  "中国科学院遥感应用研究所"
+ ],
+ "合作机构": [
+  "中国科学院遥感应用研究所",
+  "中国科学院地理科学与资源研究所资源与环境信息系",
+  "中国科学院西安光学精密机械研究所",
+  "中国科学院遥感与数字地球研究所",
+  "四川大学电子信息学院图像信息研究所",
+  "中国科学院新疆生态与地理研究所",
+  "中国科学院应用数学研究所",
+  "浙江工业大学软件学院",
+  "中国科学院研究生院",
+  "青岛海西电子有限公司"
+ ],
+ "论文": [
+  "A Thin-Cloud Mask Method for Remote Sensing Images Based on Sparse Dark Pixel Region Detection",
+  "Geo-Parcel Based Crop Identification by Integrating High Spatial-Temporal Resolution Imagery from Multi-Source Satellite Data",
+  "Multi-Scale Blobs for Saliency Detection in Satellite Images",
+  "大数据架构的遥感资源存储管理方法",
+  "地理时空大数据协同计算技术",
+  "Prior Knowledge-Based Automatic Object-Oriented Hierarchical Classification for Updating Detailed Land Cover Maps",
+  "Real-time dynamic visualization techniques for massive geospatial data",
+  "Multiscale Water Body Extraction in Urban Environments From Satellite Images",
+  "基于对象级分类的土地覆盖动态变化及趋势分析",
+  "迁移学习支持下的遥感影像对象级分类样本自动选择方法",
+  "Design of CASSEGRAIN telescope baffles with honeycomb entrance",
+  "基于局部端元提取的遥感影像波段模拟",
+  "Fully automatic object-oriented hierarchical classification for detailed land cover updating with high spatial resolution remotely sensed imageries",
+  "Fully automatic object-oriented hierarchical classification for detailed land cover updating with high spatial resolution remotely sensed imageries",
+  "采用高斯归一化水体指数实现遥感影像河流的精确提取",
+  "A Technique for Generating Natural Color Images Based on Local Endmembers",
+  "Adaptive extraction of water in urban areas based on local iteration using high-resolution multi-spectral image",
+  "ADAPTIVE EXTRACTION OF WATER IN URBAN AREAS BASED ON LOCAL ITERATION USING HIGH-RESOLUTION MULTI-SPECTRAL IMAGE",
+  "端元匹配的遥感影像地物自适应光谱表征"
+ ]
+}

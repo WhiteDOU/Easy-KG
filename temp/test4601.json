@@ -1,0 +1,68 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/e23abcc0cd1a60076f5ee724ea7d9109",
+ "主题": [
+  "舒继武"
+ ],
+ "id": "CN-B973QRIJ",
+ "工作单位": "清华大学计算机科学与技术系",
+ "被引次数": [
+  "3631"
+ ],
+ "成果数": [
+  "346"
+ ],
+ "H指数": [
+  "29"
+ ],
+ "G指数": [
+  "47"
+ ],
+ "领域": [
+  "计算机网络"
+ ],
+ "合作者": [
+  "郑纬民",
+  "薛巍",
+  "陆游游",
+  "李必刚"
+ ],
+ "合作单位": [
+  "清华大学计算机科学与技术系",
+  "清华大学计算机科学与技术系",
+  "清华大学计算机科学与技术系",
+  "清华大学计算机科学与技术系"
+ ],
+ "合作机构": [
+  "清华大学计算机科学与技术系",
+  "清华大学工程力学系",
+  "解放军信息工程大学信息工程学院",
+  "西安电子科技大学通信工程学院",
+  "辽宁师范大学计算机与信息技术学院",
+  "北京科技大学信息工程学院",
+  "清华大学电机系",
+  "南京大学计算机科学系",
+  "清华大学计算机科学与技术系(北京)",
+  "第三军医大学西南医院"
+ ],
+ "论文": [
+  "Preferred search over encrypted data",
+  "Encoding-Aware Data Placement for Efficient Degraded Reads in XOR-Coded Storage Systems: Algorithms and Evaluation",
+  "A Flattened Metadata Service for Distributed File Systems",
+  "HiNFS: A Persistent Memory File System with Both Buffering and Direct-Access",
+  "METHOD AND APPARATUS FOR OPTIMIZING RECOVERY OF SINGLE-DISK FAILURE",
+  "Improving the Performance and Endurance of Persistent Memory with Loose-Ordering Consistency",
+  "一种基于裸闪存的Key-Value数据库优化方法",
+  "Seek-Efficient I/O Optimization in Single Failure Recovery for XOR-coded Storage Systems",
+  "Accelerating breadth-first graph search on a single server by dynamic edge trimming",
+  "Cross-Rack-Aware Single Failure Recovery for Clustered File Systems",
+  "Correlation-Aware Stripe Organization for Efficient Writes in Erasure-Coded Storage Systems",
+  "METHOD FOR CONSTRUCTING NVRAM-BASED EFFICIENT FILE SYSTEM",
+  "Fast and failure-consistent updates of application data in non-volatile main memory file system",
+  "Efficient storage management for aged file systems on persistent memory",
+  "METHOD FOR DISTRIBUTED TRANSACTION PROCESSING IN FLASH MEMORY",
+  "FlashKV: Accelerating KV Performance with Open-Channel SSDs",
+  "Protect non-volatile memory from wear-out attack based on timing difference of row buffer hit/miss",
+  "LocoFS: a loosely-coupled metadata service for distributed file systems",
+  "Making Cold Data Identification Efficient in Non-volatile Memory Systems"
+ ]
+}

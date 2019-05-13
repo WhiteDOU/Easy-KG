@@ -1,0 +1,68 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/fe469d6abda560a1aea7353a4a6849e6",
+ "主题": [
+  "杨勤科"
+ ],
+ "id": "CN-B87416YJ",
+ "工作单位": "中国科学院水利部水土保持研究所",
+ "被引次数": [
+  "9771"
+ ],
+ "成果数": [
+  "372"
+ ],
+ "H指数": [
+  "54"
+ ],
+ "G指数": [
+  "80"
+ ],
+ "领域": [
+  "土壤学"
+ ],
+ "合作者": [
+  "李锐",
+  "张晓萍",
+  "温仲明",
+  "王春梅"
+ ],
+ "合作单位": [
+  "中国科学院水利部水土保持研究所",
+  "中国科学院水利部水土保持研究所",
+  "中国科学院水利部水土保持研究所",
+  "武汉理工大学资源与环境工程学院"
+ ],
+ "合作机构": [
+  "中国科学院水利部水土保持研究所",
+  "西北大学城市与资源学系",
+  "西北农林科技大学资源环境学院",
+  "中国科学院水利部水土保持研究所黄土高原土壤侵蚀与旱地农业国家重点实验室",
+  "西北农林科技大学信息工程学院",
+  "武汉理工大学资源与环境工程学院",
+  "西北大学城市与环境学院",
+  "中国科学院水利部西北水土保持研究所",
+  "中国科学院地理科学与资源研究所",
+  "中国科学院水利部成都山地灾害与环境研究所"
+ ],
+ "论文": [
+  "An integrated method for calculating DEM-based RUSLE LS",
+  "高程梯度性质和算法不确定性的初步分析",
+  "黄土高原生态工程的生态成效",
+  "An improved method for calculating slope length (λ) and the LS parameters of the Revised Universal Soil Loss Equation for large watersheds",
+  "坡度分级方法对坡度制图的影响",
+  "沟道截断对分布式土壤侵蚀学坡长提取的影响",
+  "Effect of channel networks cutoff on extraction of distributed erosion slope length",
+  "An integrated algorithm to evaluate flow direction and flow accumulation in flat regions of hydrologically corrected DEMs",
+  "中尺度流域土地利用变化对土壤侵蚀的影响——以孤山川流域为例",
+  "重采样方法对DEM数据质量的影响",
+  "Down-scaling SRTM slope based on histogram matching and slope distribution model",
+  "基于RS和GIS的纸坊沟流域土地利用动态监测及分析",
+  "面栅格表达方式引起的DEM地形表达误差",
+  "基于全数字摄影测量数据建立DEM时分辨率的确定",
+  "High-order balanced M-band multiwavelet packet transform-based remote sensing image denoising",
+  "祁连山退化高寒草甸土壤水分空间变异特征分析",
+  "基于DEM的地形起伏度算法的比较研究",
+  "Analysis of the spatial variability of soil moisture in degrading alpine meadowin the Qilian Mountains",
+  "Application of Chinese Soil Loss Equation (CSLE) to analyze the spatial and temporal variations in soil erosion on the Loess Plateau of China"
+ ]
+}

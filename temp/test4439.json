@@ -1,0 +1,68 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/315185de46198d2a72e8eccd0a6b3d23",
+ "主题": [
+  "骆剑承"
+ ],
+ "id": "CN-B574URSJ",
+ "工作单位": "中国科学院地理科学与资源研究所资源与环境信息系",
+ "被引次数": [
+  "5012"
+ ],
+ "成果数": [
+  "300"
+ ],
+ "H指数": [
+  "35"
+ ],
+ "G指数": [
+  "60"
+ ],
+ "领域": [
+  "摄影测量与遥感"
+ ],
+ "合作者": [
+  "沈占锋",
+  "周成虎",
+  "胡晓东",
+  "陈秋晓"
+ ],
+ "合作单位": [
+  "中国科学院遥感应用研究所",
+  "中国科学院地理科学与资源研究所资源与环境信息系",
+  "中国科学院遥感应用研究所",
+  "中国科学院地理科学与资源研究所资源与环境信息系"
+ ],
+ "合作机构": [
+  "中国科学院遥感应用研究所",
+  "中国科学院地理科学与资源研究所资源与环境信息系",
+  "中国科学院新疆生态与地理研究所",
+  "中国科学院遥感与数字地球研究所",
+  "四川大学电子信息学院图像信息研究所",
+  "南京师范大学虚拟地理环境教育部重点实验室",
+  "中国科学院地理科学与资源研究所",
+  "浙江工业大学软件学院",
+  "西安交通大学理学院",
+  "信息工程大学测绘学院"
+ ],
+ "论文": [
+  "Automatic newly increased built-up area extraction from high-resolution remote sensing images using line-density-based visual saliency and PanTex",
+  "A Thin-Cloud Mask Method for Remote Sensing Images Based on Sparse Dark Pixel Region Detection",
+  "Unsupervised Object-Based Change Detection via a Weibull Mixture Model-Based Binarization for High-Resolution Remote Sensing Images",
+  "Geo-Parcel Based Crop Identification by Integrating High Spatial-Temporal Resolution Imagery from Multi-Source Satellite Data",
+  "Spatiotemporal Monitoring of Lake Area Dynamics on the Tibetan Plateau",
+  "Impervious surface extraction using coupled spectral-spatial features",
+  "Multi-Scale Blobs for Saliency Detection in Satellite Images",
+  "高分辨率影像城市植被自动提取算法",
+  "遥感图谱认知理论与计算",
+  "The Theory and Calculation of Spatial-spectral Cognition of Remote Sensing",
+  "Automatic Urban Vegetation Extraction Method Using High Resolution Imagery",
+  "基于知识的空间特征逐步寻优挖掘模型及其在遥感影像分类中的应用",
+  "Application of Land Cover Classification Techniques in Poverty-stricken Areas Using High Resolution Remote Sensing: A Case Study of Qianjiang District of Chongqing City",
+  "地理时空大数据协同计算技术",
+  "高分辨率遥感土地覆盖分类技术的应用研究——以重庆市黔江贫困区为例",
+  "High Spatial Resolution Remote Sensing Data Computing Pattern Based on Feature Primitives",
+  "Prior Knowledge-Based Automatic Object-Oriented Hierarchical Classification for Updating Detailed Land Cover Maps",
+  "Oil Tanks Extraction from High Resolution Imagery Using a Directional and Weighted Hough Voting Method",
+  "A Fast Algorithm to Estimate the Deepest Points of Lakes for Regional Lake Registration"
+ ]
+}

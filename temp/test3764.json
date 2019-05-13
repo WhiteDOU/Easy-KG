@@ -1,0 +1,69 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/f36ec13aadfc61e55fd47cfcfefc4d96",
+ "主题": [
+  "孙卫强"
+ ],
+ "id": "CN-BJ75IZRJ",
+ "工作单位": "中国科学技术大学电子工程与信息科学系",
+ "被引次数": [
+  "957"
+ ],
+ "成果数": [
+  "251"
+ ],
+ "H指数": [
+  "15"
+ ],
+ "G指数": [
+  "23"
+ ],
+ "领域": [
+  "通信与信息系统"
+ ],
+ "合作者": [
+  "胡卫生",
+  "金耀辉",
+  "郭薇",
+  "何浩"
+ ],
+ "合作单位": [
+  "上海交通大学区域光纤通信网与新型光通信系统国家重...",
+  "上海交通大学区域光纤通信网与新型光通信系统国家重...",
+  "武汉大学计算机学院",
+  "上海交通大学区域光纤通信网与新型光通信系统国家重..."
+ ],
+ "合作机构": [
+  "上海交通大学区域光纤通信网与新型光通信系统国家重点实验室",
+  "武汉大学计算机学院",
+  "中国科学技术大学电子工程与信息科学系",
+  "解放军总医院",
+  "上海交通大学",
+  "清华大学电子工程系",
+  "上海交通大学宽带光网技术研究开发中心",
+  "上海交通大学计算机科学与工程系",
+  "华中科技大学电子与信息工程系",
+  "上海交通大学区域光纤通信网及新型光通信系统国家重点实验室"
+ ],
+ "论文": [
+  "SDN-enabled headroom services for high-speed data transfers",
+  "CAPEX Optimization with Joint Allocation of Hybrid RF/FSO and Optical Fibre Resources in 5G Backhaul",
+  "Overlapping shared segment protection in store-and-transfer WDM networks under sliding scheduled traffic model",
+  "Physical-layer OFDM data encryption using chaotic ZCMT precoding matrix",
+  "Performance analysis of overlapping shared segment protection in Store-and-Transfer WDM networks",
+  "Performance of slotted store-and-forward (sSnF) optical circuit-switched networks - a simulation study",
+  "Slotted Store-and-Forward Optical Circuit-Switched Networks: A Performance Study",
+  "Joint Provisioning of Lightpaths and Storage in Store-and-Transfer Wavelength-Division Multiplexing Networks",
+  "Trading storage for bandwidth - a simulation study of optical circuit switching with massive storage at network edge",
+  "Resource Allocation in Electrical/Optical Hybrid Switching Data Center Networks",
+  "Dimensioning of the store-and-transfer WDM network with limited node storage under the sliding scheduled traffic model",
+  "Port Aggregation in Optical Circuit Switched Data Center Networks",
+  "Routing and spectrum allocation in multi-ring based data center networks",
+  "Elastic optical ring with flexible spectrum ROADMs",
+  "Elastic Optical Ring with Flexible Spectrum ROADMs: An Optical Switching Architecture for Future Data Center Networks",
+  "Dimensioning of Store-and-Transfer WDM Network with limited storage",
+  "突发大数据在存储辅助光电路交换网络中的传输",
+  "电路与分组混合光交换中的准静态时隙分配方案",
+  "Optimal resource allocation in Hybrid Packet/optical Circuit Switched networks",
+  "Large data transfers in WDM networks with node storage"
+ ]
+}

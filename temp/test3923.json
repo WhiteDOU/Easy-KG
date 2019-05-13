@@ -1,0 +1,68 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/e015b6fc150c02977d891005427a089c",
+ "主题": [
+  "孙志刚"
+ ],
+ "id": "CN-BJ74NXHJ",
+ "工作单位": "国防科学技术大学计算机学院",
+ "被引次数": [
+  "1099"
+ ],
+ "成果数": [
+  "236"
+ ],
+ "H指数": [
+  "16"
+ ],
+ "G指数": [
+  "27"
+ ],
+ "领域": [
+  "计算机网络"
+ ],
+ "合作者": [
+  "李韬",
+  "卢锡城",
+  "苏金树",
+  "吕高锋"
+ ],
+ "合作单位": [
+  "国防科学技术大学计算机学院",
+  "国防科技大学计算机学院",
+  "国防科学技术大学计算机学院",
+  "国防科学技术大学计算机学院"
+ ],
+ "合作机构": [
+  "国防科学技术大学计算机学院",
+  "国防科技大学计算机学院",
+  "武汉理工大学材料复合新技术国家重点实验室",
+  "国防大学信息作战与指挥训练教研部",
+  "怀化学院计算机系",
+  "江苏大学化学化工学院",
+  "卫生部北京医院",
+  "国防科学技术大学",
+  "四川大学华西医院",
+  "中国医学科学院北京协和医院"
+ ],
+ "论文": [
+  "CSR: Classified Source Routing in Distributed Networks",
+  "OverWatch: A Cross-Plane DDoS Attack Defense Framework with Collaborative Intelligence in SDN",
+  "RESSP：基于FPGA的可重构SDN交换结构",
+  "Demonstration of Path-Based Packet Batcher for Accelerating Vectorized Packet Processing",
+  "FAS: Using FPGA to Accelerate and Secure SDN Software Switches",
+  "图数据分析系统计算模型综述",
+  "基于主成分分析与栅格划分的点云压缩算法研究",
+  "CCM:面向SDN交换芯片设计的计数器实现模型",
+  "SDN-based DDoS Attack Detection with Cross-Plane Collaboration and Lightweight Flow Monitoring",
+  "P5: Programmable Parsers with Packet-level Parallel Processing for FPGA-based Switches",
+  "PiBuffer：面向数据中心的 OpenFlow 流缓存管理模型",
+  "基于同态滤波的手机镜片表面缺陷检测算法研究",
+  "Design and implementation of Software Defined Hardware Counters for SDN",
+  "BufferBank storage: an economic, scalable and universally usable in-network storage model for streaming data applications",
+  "Efficient Mismatched Packet Buffer Management with Packet Order-preserving for OpenFlow Networks",
+  "Self-described buffer: A novel mechanism to improve packet I/O efficiency in Linux.",
+  "BufferBank storage: an economic, scalable and universally usable in-network storage model for streaming data applications.",
+  "MCPP: A High-efficiency Routing Table Lookup Based on NPDK",
+  "FRINGE: Improving the scalability of Ethernet DCN via efficient software-defined edge control"
+ ]
+}

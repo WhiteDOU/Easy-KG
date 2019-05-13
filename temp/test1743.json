@@ -1,0 +1,67 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/147be1d62f5ba76fd12b53a3e6acb5c8",
+ "主题": [
+  "黄永梅"
+ ],
+ "id": "CN-B674H0PJ",
+ "工作单位": "中国科学院光电技术研究所",
+ "被引次数": [
+  "698"
+ ],
+ "成果数": [
+  "80"
+ ],
+ "H指数": [
+  "16"
+ ],
+ "G指数": [
+  "25"
+ ],
+ "领域": [
+  "光学"
+ ],
+ "合作者": [
+  "付承毓",
+  "唐涛",
+  "马佳光",
+  "傅承毓"
+ ],
+ "合作单位": [
+  "中国科学院光束控制重点实验室",
+  "中国科学院研究生院",
+  "中国科学院光电技术研究所",
+  "中国科学院光电技术研究所"
+ ],
+ "合作机构": [
+  "中国科学院光电技术研究所",
+  "中国科学院研究生院",
+  "中国科学院光束控制重点实验室",
+  "南京大学物理系",
+  "清华大学物理系",
+  "中国科学技术大学近代物理系合肥微尺度物质科学国家实验室",
+  "中国电子科技集团公司",
+  "中国科学院广州地球化学研究所",
+  "哈尔滨工业大学"
+ ],
+ "论文": [
+  "Multiple Fusion Based on the CCD and MEMS Accelerometer for the Low-Cost Multi-Loop Optoelectronic System Control",
+  "Acquisition technology for optical ground stations in satellite–ground quantum experiments",
+  "A method for optical ground station reduce alignment error in satellite-ground quantum experiments",
+  "Error-Based Observer of a Charge Couple Device Tracking Loop for Fast Steering Mirror",
+  "Combining a Disturbance Observer with Triple-Loop Control Based on MEMS Accelerometers for Line-of-Sight Stabilization",
+  "Liquid-crystal beam deflection wave control method based on phased array radar",
+  "一种液晶相位调制特性的测量方法",
+  "基于相控阵雷达模型的液晶光束偏转波控方法研究",
+  "An acquisition technology of optical ground station in satellite-ground QKD",
+  "基于编码器测速的双闭环控制系统性能分析",
+  "The Performance Analysis of Phase Offset Estimation in Coherent FSO System",
+  "A friction compensating method based on data fusion in telescope controller design",
+  "Design of the telescope controller rejecting ground-based disturbance based on data fusion",
+  "点目标视频跟踪中的噪声自适应卡尔曼滤波器",
+  "Noise adaptive fading Kalman filter for free-space laser communication beacon tracking",
+  "一种液晶相位调制特性的测量方法",
+  "A method on error analysis for large-aperture optical telescope control system",
+  "Acceleration feedback control (AFC) enhanced by disturbance observation and compensation (DOC) for high precision tracking in telescope systems",
+  "The architecture of blind equalizer for MIMO free space optical communication system"
+ ]
+}

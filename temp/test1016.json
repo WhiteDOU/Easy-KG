@@ -1,0 +1,65 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/ca717a7b50bb00877c5137a488151dc4",
+ "主题": [
+  "江岭"
+ ],
+ "id": "CN-BU74O1RJ",
+ "工作单位": "南京师范大学虚拟地理环境教育部重点实验室",
+ "被引次数": [
+  "153"
+ ],
+ "成果数": [
+  "47"
+ ],
+ "H指数": [
+  "7"
+ ],
+ "G指数": [
+  "10"
+ ],
+ "领域": [
+  "地图制图学与地理信息工程/大地测量学与测量工程"
+ ],
+ "合作者": [
+  "汤国安",
+  "宋效东",
+  "王春",
+  "刘凯"
+ ],
+ "合作单位": [
+  "西北大学城市与资源学系",
+  "南京师范大学虚拟地理环境教育部重点实验室",
+  "滁州学院地理信息与旅游学院",
+  "南京师范大学虚拟地理环境教育部重点实验室"
+ ],
+ "合作机构": [
+  "南京师范大学虚拟地理环境教育部重点实验室",
+  "西北大学城市与资源学系",
+  "滁州学院地理信息与旅游学院",
+  "南京师范大学数学与计算机科学学院",
+  "南京师范大学",
+  "中国科学院地理科学与资源研究所",
+  "滁州学院国土信息工程系",
+  "山东省医学影像学研究所",
+  "温州大学生命与环境科学学院",
+  "中国科学院地理科学与资源研究所资源与环境信息系"
+ ],
+ "论文": [
+  "Large-scale mapping of gully-affected areas: An approach integrating Google Earth images and terrain skeleton information",
+  "A modified HASM algorithm and its application in DEM construction",
+  "Fusion of multi-source near-surface CO 2 concentration data based on high accuracy surface modeling",
+  "基于SCIAMACHY反演数据的全球CO2浓度时空变化特征研究",
+  "面向城市DEM构建的地形要素分类及表达",
+  "A high-accuracy method for simulating the XCO2 global distribution using GOSAT retrieval data",
+  "Classification and Expression of Urban Topographic Features for DEM Construction",
+  "我国GIS专业高等教育发展现状与分析",
+  "ParallelWatershed Codification Algorithm Based on Pfafstetter Coding System",
+  "格网DEM侵蚀学坡长并行计算方法",
+  "基于Pfafstetter规则的流域编码算法并行化方法",
+  "Regional-scale calculation of the LS factor using parallel processing",
+  "The Sensitivity Analysis ofDEM Terrain Texture Characteristics Based on Grey Level Co-occurrence Matrix",
+  "DEM地面形态重构方法的精度差异特征研究",
+  "The sensitivity analysis of DEM terrain texture characteristics based on Grey Level Co-occurrence Matrix",
+  "基于DEM的流域地形分析并行算法关键技术研究"
+ ]
+}

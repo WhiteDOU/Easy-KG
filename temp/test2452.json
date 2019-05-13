@@ -1,0 +1,68 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/8b53970c8560e99156e516e263c7de5a",
+ "主题": [
+  "董毅"
+ ],
+ "id": "CN-BT75BJMJ",
+ "工作单位": "清华大学电子工程系",
+ "被引次数": [
+  "1405"
+ ],
+ "成果数": [
+  "235"
+ ],
+ "H指数": [
+  "19"
+ ],
+ "G指数": [
+  "29"
+ ],
+ "领域": [
+  "光学/通信与信息系统"
+ ],
+ "合作者": [
+  "胡卫生",
+  "谢世钟",
+  "赵尚弘",
+  "谢玮霖"
+ ],
+ "合作单位": [
+  "上海交通大学区域光纤通信网与新型光通信系统国家重...",
+  "清华大学电子工程系",
+  "空军工程大学电讯工程学院",
+  "上海交通大学区域光纤通信网与新型光通信系统国家重..."
+ ],
+ "合作机构": [
+  "上海交通大学区域光纤通信网与新型光通信系统国家重点实验室",
+  "清华大学电子工程系",
+  "空军工程大学电讯工程学院",
+  "东南大学射频与光电集成电路研究所",
+  "上海交通大学",
+  "空军工程大学信息与导航学院",
+  "中国科学技术大学电子工程与信息科学系",
+  "武汉大学计算机学院",
+  "扬州大学物理科学与技术学院",
+  "中国医学科学院中国协和医科大学北京协和医院"
+ ],
+ "论文": [
+  "Distribution of a phase-stabilized 100.02 GHz millimeter-wave signal over a 160 km optical fiber with 4.1 × 10−17 instability",
+  "全光纤电流传感器中传感光纤的温度特性研究",
+  "A highly precise fiber delay fluctuation measurement with a wide range",
+  "Efficient dynamic coherence transfer relying on offset locking using optical phase-locked loop",
+  "Coherent Single-Mode Extraction of Agile Frequency Comb via Phase-Locking for Broadband Phase-Continuous Tuning",
+  "基于遗传算法与Zoom FFT的光频域反射仪快速高精度频谱分析",
+  "全光纤电流传感器中电流传感光纤的抗干扰研究",
+  "Highly linear analog photonic link based on composite optical phase-locked loop",
+  "Fourier transform-limited optical frequency-modulated continuous-wave interferometry over several tens of laser coherence lengths.",
+  "星间高速相干激光通信系统中的光学锁相环技术",
+  "Distribution of millimeter waves over a fiber link with high frequency stability (Invited Paper)",
+  "基于预畸变和光锁相的线性扫频激光源生成",
+  "Photonic generation of phase-stable and wideband chirped microwave signals based on phase-locked dual optical frequency combs.",
+  "Optical parametric mixer-based passive phase correction for stable transfer of millimeter waves",
+  "Fast Spectrum Analysis for an OFDR Using the FFT and SCZT Combination Approach",
+  "Precise linearization of broadband frequency chirp for coherent optical frequency domain reflectometry",
+  "Coherence enhancement of a chirped DFB laser for frequency-modulated continuous-wave reflectometry using a composite feedback loop",
+  "The laser phase measurement by phase-smooth unwrapping algorithm and its application in phase error compensation of OFMCW",
+  "Optical generation of millimeter-wave signals via frequency 16-tupling without an optical filter"
+ ]
+}

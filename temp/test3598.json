@@ -1,0 +1,69 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/83694abd8c387bfd12c9197bad28584a",
+ "主题": [
+  "杨广文"
+ ],
+ "id": "CN-BE73ZIXJ",
+ "工作单位": "清华大学计算机科学与技术系",
+ "被引次数": [
+  "2892"
+ ],
+ "成果数": [
+  "383"
+ ],
+ "H指数": [
+  "25"
+ ],
+ "G指数": [
+  "43"
+ ],
+ "领域": [
+  "分布式与并行计算"
+ ],
+ "合作者": [
+  "郑纬民",
+  "武永卫",
+  "黄小猛",
+  "姜进磊"
+ ],
+ "合作单位": [
+  "清华大学计算机科学与技术系",
+  "清华大学计算机科学与技术系",
+  "清华大学计算机科学与技术系",
+  "清华大学计算机科学与技术系"
+ ],
+ "合作机构": [
+  "清华大学计算机科学与技术系",
+  "清华大学电子工程系",
+  "清华大学计算机系清华信息科学与技术国家实验室(筹)",
+  "北京应用物理与计算数学研究所",
+  "海军海洋水文气象中心",
+  "中国科学院研究生院",
+  "重庆医科大学附属第一医院",
+  "Modeling",
+  "北京国科世纪激光技术有限公司",
+  "中国科学院软件研究所"
+ ],
+ "论文": [
+  "Global Simulation of Planetary Rings on Sunway TaihuLight",
+  "Optimizing Convolutional Neural Networks on the Sunway TaihuLight Supercomputer",
+  "18.9-Pflops nonlinear earthquake simulation on Sunway TaihuLight: enabling depiction of 18-Hz and 8-meter scenarios",
+  "Redesigning CAM-SE for peta-scale climate modeling performance and ultra-high resolution on Sunway TaihuLight",
+  "Accelerating Financial Market Server through Hybrid List Design (Abstract Only)",
+  "Solving global shallow water equations on heterogeneous supercomputers",
+  "面向MPI集合操作的定制化片上网络",
+  "A Fully-Pipelined Hardware Design for Gaussian Mixture Models",
+  "A Nanosecond–Level Hybrid Table Design for Financial Market Data Generators",
+  "SW-AES: Accelerating AES Algorithm on the Sunway TaihuLight",
+  "An EnKF-based Scheme to Optimize Hyper-parameters and Features for SVM Classifier",
+  "SCStore: Managing scientific computing packages for hybrid system with containers",
+  "Customized Network-on-Chip Oriented to MPI Collective Operations",
+  "Cavs: A Vertex-centric Programming Interface for Dynamic Neural Networks",
+  "Evaluating the POWER8 Architecture through Optimizing Stencil-Based Algorithms",
+  "Cache-Friendly Design for Complex Spatially-Variable Coefficient Stencils on Many-Core Architectures",
+  "Solving Mesoscale Atmospheric Dynamics Using a Reconfigurable Dataflow Architecture",
+  "Accelerating the 3D euler atmospheric solver through heterogeneous CPU-GPU platforms.",
+  "An NAD Scheme with Wavenumber Error Optimized for 2D Scalar Wave Equation",
+  "Accelerating the 3D euler atmospheric solver through heterogeneous CPU-GPU platforms."
+ ]
+}

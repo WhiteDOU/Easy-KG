@@ -1,0 +1,3 @@
+北京大学,baike_url:"example.com",中文名:,创办时间
+中南大学,baike_url,中文名,创办时间
+

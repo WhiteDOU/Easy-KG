@@ -1,0 +1,69 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/b127b656a8e3b90abc4b60d6503ae8e8",
+ "主题": [
+  "何浩"
+ ],
+ "id": "CN-B87408JJ",
+ "工作单位": "上海交通大学区域光纤通信网与新型光通信系统国家重点实验室",
+ "被引次数": [
+  "1401"
+ ],
+ "成果数": [
+  "174"
+ ],
+ "H指数": [
+  "19"
+ ],
+ "G指数": [
+  "33"
+ ],
+ "领域": [
+  "光学"
+ ],
+ "合作者": [
+  "胡卫生",
+  "董毅",
+  "孙卫强",
+  "金耀辉"
+ ],
+ "合作单位": [
+  "上海交通大学区域光纤通信网与新型光通信系统国家重...",
+  "清华大学电子工程系",
+  "中国科学技术大学电子工程与信息科学系",
+  "上海交通大学区域光纤通信网与新型光通信系统国家重..."
+ ],
+ "合作机构": [
+  "上海交通大学区域光纤通信网与新型光通信系统国家重点实验室",
+  "上海交通大学",
+  "清华大学电子工程系",
+  "中国科学技术大学电子工程与信息科学系",
+  "北京师范大学资源学院",
+  "武汉大学计算机学院",
+  "贵州师范大学物理与电子科学学院",
+  "上海市浦东新区公利医院",
+  "广州军区武汉总医院",
+  "中国科学院沈阳应用生态研究所"
+ ],
+ "论文": [
+  "Chirp-aided power fading mitigation for upstream 100 km full-range long reach PON with DBR DML",
+  "Flexible Hybrid PAM2/4 for Fidelity Optimization in Digital Mobile Fronthaul",
+  "Fidelity enhancement in high-data-rate digital mobile fronthaul with sample bits interleaving and unequally-spaced PAM4",
+  "Secure Transmission of Optical DFT-S-OFDM Data Encrypted by Digital Chaos",
+  "40-Gbit/s Honeycomb 2D-PAM4 TCM Transmission for Short Reach Applications",
+  "Spectral Efficiency Improved 2D-PAM8 Trellis Coded Modulation for Short Reach Optical System",
+  "Four-wave mixing effect reduction in O-band multi-wavelength NG-EPON system based on chirped DML",
+  "Flexible baseband-unit aggregation enabled by reconfigurable multi-IF over WDM fronthaul",
+  "Low complexity and high accuracy sampling frequency offset estimation and compensation algorithm in IMDD-OFDM system",
+  "An optical access network framework for smart factory in the industry 4.0 era supporting massive machine connections",
+  "Low-Cost WDM Fronthaul Enabled by Partitioned Asymmetric AWGR With Simultaneous Flexible Transceiver Assignment and Chirp Management",
+  "Nonuniform quantification DAC for improving the performance of IMDD-based FBMC system",
+  "High accuracy and non-pilot aided sampling frequency offset estimation algorithm in Multi-IFoF fronthaul",
+  "25Gbps two-dimensional trellis coded PAM4 TDM-PON transmission based on 10G optics",
+  "EVM Reduction in Digital Mobile Fronthaul by Sample Bits Interleaving and Uneven PAM4",
+  "Quantization noise and sampling jitter impact of ADC/DAC in multi-IFoF based mobile fronthaul",
+  "工程管理信息化的内涵与外延探讨",
+  "Study of FFT/IFFT precision in optical OQAM-OFDM system with limited resolution DAC/ADC",
+  "Study of FFT/IFFT precision in optical OQAM-OFDM system with limited resolution DAC/ADC",
+  "Power Depletion and Crosstalk Induced by Stimulated Raman Scattering in WDM Fronthaul"
+ ]
+}

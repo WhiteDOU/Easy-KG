@@ -1,0 +1,69 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/1a326aff70604e9decd923501e522b6e",
+ "主题": [
+  "李继国"
+ ],
+ "id": "CN-BI744NTJ",
+ "工作单位": "河海大学计算机与信息学院",
+ "被引次数": [
+  "2113"
+ ],
+ "成果数": [
+  "174"
+ ],
+ "H指数": [
+  "23"
+ ],
+ "G指数": [
+  "42"
+ ],
+ "领域": [
+  "信息安全/通信与信息系统"
+ ],
+ "合作者": [
+  "张亦辰",
+  "陆阳",
+  "Yang Lu",
+  "黄欣沂"
+ ],
+ "合作单位": [
+  "河海大学计算机与信息学院",
+  "合肥工业大学计算机与信息学院",
+  "Hohai University",
+  "南京工业大学理学院"
+ ],
+ "合作机构": [
+  "河海大学计算机与信息学院",
+  "合肥工业大学计算机与信息学院",
+  "Hohai University",
+  "南京工业大学理学院",
+  "哈尔滨工业大学数学系",
+  "解放军理工大学通信工程学院",
+  "宿迁学院计算机系",
+  "四川大学华西医院",
+  "哈尔滨工业大学计算机科学与技术学院",
+  "河海大学计算机及信息工程学院"
+ ],
+ "论文": [
+  "On Security of a Secure Channel Free Public Key Encryption with Conjunctive Field Keyword Search Scheme",
+  "Cryptanalysis and Improvement for Certificateless Aggregate Signature",
+  "Anonymous Certificate-based Broadcast Encryption with Constant Decryption Cost",
+  "Content-centric Group User Authentication for Secure Social Networks",
+  "An Efficient Certificate-Based Authenticated Key Agreement Protocol without Bilinear Pairing",
+  "AN IMPROVED CERTIFICATELESS STRONG KEY-INSULATED SIGNATURE SCHEME IN THE STANDARD MODEL.",
+  "Expressive attribute-based keyword search with constant-size ciphertext",
+  "Weakness and Improvement of a Certificate-Based Key-Insulated Signature in the Standard Model",
+  "Identity-based Broadcast Encryption with Continuous Leakage Resilience",
+  "Flexible and Fine-Grained Attribute-Based Data Storage in Cloud Computing",
+  "A Novel Efficient Remote Data Possession Checking Protocol in Cloud Storage",
+  "无证书代理签名方案",
+  "Provably Secure Certificate-Based Encryption with Leakage Resilience",
+  "Forward-secure identity-based encryption with direct chosen-ciphertext security in the standard model",
+  "New Construction of Short Certificate-Based Signature against Existential Forgery Attacks",
+  "Efficient designated server identity-based encryption with conjunctive keyword search",
+  "Verifiable Outsourced Decryption of Attribute-Based Encryption with Constant Ciphertext Length",
+  "An Efficient Certificate-Based Designated Verifier Signature Scheme",
+  "User Collusion Avoidance CP-ABE With Efficient Attribute Revocation for Cloud Storage",
+  "A pairing-free certificate-based proxy re-encryption scheme for secure data sharing in public clouds"
+ ]
+}

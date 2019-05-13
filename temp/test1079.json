@@ -1,0 +1,69 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/1280f36d9cc2c5110e24a62a2bee12c5",
+ "主题": [
+  "义理林"
+ ],
+ "id": "CN-BD749ZSJ",
+ "工作单位": "上海交通大学",
+ "被引次数": [
+  "6563"
+ ],
+ "成果数": [
+  "170"
+ ],
+ "H指数": [
+  "19"
+ ],
+ "G指数": [
+  "80"
+ ],
+ "领域": [
+  "光学"
+ ],
+ "合作者": [
+  "胡卫生",
+  "董毅",
+  "肖石林",
+  "何浩"
+ ],
+ "合作单位": [
+  "上海交通大学区域光纤通信网与新型光通信系统国家重...",
+  "清华大学电子工程系",
+  "上海交通大学区域光纤通信网与新型光通信系统国家重...",
+  "上海交通大学区域光纤通信网与新型光通信系统国家重..."
+ ],
+ "合作机构": [
+  "上海交通大学区域光纤通信网与新型光通信系统国家重点实验室",
+  "清华大学电子工程系",
+  "上海交通大学宽带光网研究中心",
+  "上海交通大学光学与光子学研究所",
+  "中国科学院安徽光学精密机械研究所",
+  "中国科学技术大学电子工程与信息科学系",
+  "上海交通大学",
+  "武汉大学计算机学院",
+  "第四军医大学西京医院",
+  "中国医学科学院中国协和医科大学北京协和医院"
+ ],
+ "论文": [
+  "Phase chaos generation and security enhancement by introducing fine-controllable dispersion",
+  "Chaotic optical communications over 100-km fiber transmission at 30-Gb/s bit rate",
+  "SBS-based OEO with high tuning resolution and wide tuning range by selecting different-order phase modulation sideband as pump",
+  "Programmable and fast-switchable passively harmonic mode-locking fiber laser",
+  "Frequency Domain Equalization Method",
+  "50-Gb/s TDM-PON Based on 10G-Class Devices by Optics-simplified DSP",
+  "Symmetric 100-Gb/s TWDM-PON in O-Band Based on 10G-Class Optical Devices Enabled by Dispersion-Supported Equalization",
+  "Generation and phase noise analysis of a wide optoelectronic oscillator with ultra-high resolution based on stimulated Brillouin scattering",
+  "100Gbps IM/DD Transmission over 25km SSMF using 20G-class DML and PIN Enabled by Machine Learning",
+  "56 Gbps IM/DD PON based on 10G-Class Optical Devices with 29 dB Loss Budget Enabled by Machine Learning",
+  "C-band real-time 400/300  Gb/s OOK bidirectional interconnection over 20  km multicore fibers",
+  "Arbitrary-shaped Brillouin microwave photonic filter by manipulating a directly modulated pump",
+  "Upstream dispersion management of 25 Gb/s duobinary and PAM-4 signals to support 0–40 km differential reach",
+  "Intensity directed equalizer for the mitigation of DML chirp induced distortion in dispersion-unmanaged C-band PAM transmission",
+  "Field demonstration of real-time 100G-PON (Conference Presentation)",
+  "Time Delay Concealment in Feedback Chaotic Systems With Dispersion in Loop",
+  "First Demonstration of Symmetric 100G-PON in O-band with 10G-Class Optical Devices Enabled by Dispersion-Supported Equalization",
+  "GHz-wide arbitrary-shaped microwave photonic filter based on stimulated brillouin scattering using directly-modulated laser",
+  "Exploring High Quality Chaotic Signal Generation in a Mutually Delay Coupled Semiconductor Lasers System",
+  "Demonstration of 25 Gbit/s PAM4 Hybrid Photonic-Wireless Transmission"
+ ]
+}

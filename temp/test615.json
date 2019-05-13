@@ -1,0 +1,68 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/1af9e09518ecb48e01108c086e4d0c61",
+ "主题": [
+  "闫桂珍"
+ ],
+ "id": "CN-B275LB1J",
+ "工作单位": "北京大学微电子学研究院微米纳米加工技术国家级重点实验室",
+ "被引次数": [
+  "1620"
+ ],
+ "成果数": [
+  "194"
+ ],
+ "H指数": [
+  "19"
+ ],
+ "G指数": [
+  "34"
+ ],
+ "领域": [
+  "机械电子工程"
+ ],
+ "合作者": [
+  "杨振川",
+  "郝一龙",
+  "崔健",
+  "吴文刚"
+ ],
+ "合作单位": [
+  "北京大学微电子所",
+  "北京大学微电子学研究院",
+  "中山大学光电材料与技术国家重点实验室",
+  "北京大学微电子学研究院微米纳米加工技术国家级重点实验室"
+ ],
+ "合作机构": [
+  "北京大学微电子所",
+  "中山大学光电材料与技术国家重点实验室",
+  "北京大学微电子学研究院",
+  "北京大学微电子学研究所",
+  "北京大学微电子学研究院微米纳米加工技术国家级重点实验室",
+  "北京大学微电子学与固体电子学研究院微米/纳米加工技术国家级重点实验室",
+  "天津大学精密测试技术及仪器国家重点实验室",
+  "北京大学微电子学研究院微米/纳米加工技术国家级重点实验室",
+  "浙江省绍兴市人民医院",
+  "北京大学电子学系区域光纤通信网与新型光纤系统国家重点实验室"
+ ],
+ "论文": [
+  "A Low-Noise High-G Closed-Loop Capacitive Accelerometer Using DC-Blocking Technique for Reduction of Power Dissipation",
+  "A Micromachined Vibratory Gyroscope",
+  "一种基于前馈耦合补偿和尺度收缩模糊控制的微机械陀螺",
+  "Research on the packaging reliability and degradation models of quality factors for a high vacuum sealed MEMS gyroscope",
+  "Research on the Zero-Rate Output compensation for MEMS vibratory gyroscopes",
+  "A novel method to measure the sidewall angle of MEMS structures",
+  "Research on the ring-diode based readout circuit for MEMS vibratory gyroscopes",
+  "A novel robust design method for the sense mode of a MEMS vibratory gyroscope based on fuzzy reliability and Taguchi design",
+  "Study on the influence induced by electrical coupling among interconnection lines in MEMS gyroscopes",
+  "An electrical-coupling-suppressing MEMS gyroscope with feed-forward coupling compensation and scalable fuzzy control",
+  "Force rebalance control for a MEMS gyroscope using ascending frequency drive and generalized PI control",
+  "A MEMS Vibratory Gyroscope With Real-Time Mode-Matching and Robust Control for the Sense Mode",
+  "A reliable MEMS gyroscope with optimization design for closed loop control of the sense mode",
+  "A low-noise SC-type interface asic for a closed-loop MEMS gyroscope",
+  "A novel scale factor calibration method for a MEMS gyroscope based on virtual coriolis force",
+  "A novel narrow-band force rebalance control method for the sense mode of MEMS vibratory gyroscopes",
+  "A temperature control system used for improving resonant frequency drift of MEMS gyroscopes",
+  "A method to evaluate the influence of different substrate on stress mismatch induced deformation in MEMS accelerometer",
+  "Design and simulation of a 2-axis low g acceleration switch with multi-folded beams"
+ ]
+}

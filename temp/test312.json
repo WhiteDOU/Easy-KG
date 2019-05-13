@@ -1,0 +1,67 @@
+{
+ "url": "http://xueshu.baidu.com/homepage/u/e5378d777086b47f68f47176e60717a7",
+ "主题": [
+  "胡光岷"
+ ],
+ "id": "CN-BA74SVLJ",
+ "工作单位": "成都理工大学油气藏地质与开发工程国家重点实验室",
+ "被引次数": [
+  "433"
+ ],
+ "成果数": [
+  "57"
+ ],
+ "H指数": [
+  "12"
+ ],
+ "G指数": [
+  "20"
+ ],
+ "领域": [
+  "地质工程/固体地球物理学"
+ ],
+ "合作者": [
+  "贺振华",
+  "黄德济",
+  "钱峰",
+  "黄捍东"
+ ],
+ "合作单位": [
+  "成都理工大学油气藏地质与开发工程国家重点实验室",
+  "成都理工大学信息工程学院",
+  "电子科技大学宽带光纤传输与通信网技术教育部重点实验室",
+  "中国石油大学油气资源与探测国家重点实验室"
+ ],
+ "合作机构": [
+  "成都理工大学油气藏地质与开发工程国家重点实验室",
+  "成都理工大学信息工程学院",
+  "电子科技大学宽带光纤传输与通信网技术教育部重点实验室",
+  "成都理工大学",
+  "中国石油大学油气资源与探测国家重点实验室",
+  "电子科技大学",
+  "四川石油管理局",
+  "成都理工学院",
+  "油气藏地质及开发工程国家重点实验室成都理工大学",
+  "电子科技大学光纤传感与通信教育部重点实验室"
+ ],
+ "论文": [
+  "Kirchhoff Beam Migration Based on Compressive Sensing",
+  "Unsupervised seismic facies analysis via deep convolutional autoencoders",
+  "Unsupervised seismic facies analysis with spatial constraints using regularized fuzzy c-means",
+  "A hybrid regularization approach for AVA inversion of the piecewise smooth model",
+  "Seismic facies recognition based on prestack data using deep convolutional autoencoder",
+  "ENHANCED COHERENCE USING PRINCIPAL COMPONENT ANALYSIS",
+  "3D seismic data denoising using two-dimensional sparse coding scheme",
+  "Multi-waveform classification for seismic facies analysis",
+  "Exact 3D seismic data reconstruction using Tubal-Alt-Min algorithm",
+  "Adaptive mixed-norm seismic inversion for non-Gaussian errors",
+  "Regularized amplitude-versus-angle (AVA) inversion with traveltime information",
+  "Prestack gather flattening using segmental dynamic time warp",
+  "Distance Four Graph Labelings for the Channel Assignment Problem",
+  "基于非线性变时窗相干算法的不连续性检测方法",
+  "Multiattribute fusion-based level sets for caves segmentation",
+  "A note on (s, t)-relaxed L(2, 1)-labeling of graphs",
+  "Network Topology Tomography Under Multipath Routing.",
+  "Iterative reweighted least M-estimate AVO inversion"
+ ]
+}
